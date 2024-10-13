@@ -1,209 +1,7510 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "id": "1",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.034084142948,
-          38.909671288923
-        ]
-      },
-      "properties": {
-        "name": "Place 1",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "10 AM - 9 PM"
-      }
-    },
-    {
-      "id": "2",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.049766,
-          38.900772
-        ]
-      },
-      "properties": {
-        "name": "Place 2",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "11 AM - 9 PM"
-      }
-    },
-    {
-      "id": "3",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.043929,
-          38.910525
-        ]
-      },
-      "properties": {
-        "name": "Place 3",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "9 AM - 9 PM"
-      }
-    },
-    {
-      "id": "4",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0672,
-          38.90516896
-        ]
-      },
-      "properties": {
-        "name": "Place 4",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "12 AM - 6 PM"
-      }
-    },
-    {
-      "id": "5",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.002583742142,
-          38.887041080933
-        ]
-      },
-      "properties": {
-        "name": "Place 4",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "11 AM - 9 PM"
-      }
-    },
-    {
-      "id": "6",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.933492720127,
-          38.99225245786
-        ]
-      },
-      "properties": {
-        "name": "Place 5",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "10 AM - 9 PM"
-      }
-    },
-    {
-      "id": "7",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.097083330154,
-          38.980979
-        ]
-      },
-      "properties": {
-        "name": "Place 6",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "11 AM - 9 PM"
-      }
-    },
-    {
-      "id": "8",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.359425054188,
-          38.958058116661
-        ]
-      },
-      "properties": {
-        "name": "Place 6",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "6 AM - 9 PM"
-      }
-    },
-    {
-      "id": "9",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.10853099823,
-          38.880100922392
-        ]
-      },
-      "properties": {
-        "name": "Place 7",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "7 AM - 8 PM"
-      }
-    },
-    {
-      "id": "10",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.28784,
-          40.008008
-        ]
-      },
-      "properties": {
-        "name": "Place 8",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "8 AM - 9 PM"
-      }
-    },
-    {
-      "id": "11",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.20121216774,
-          39.954030175164
-        ]
-      },
-      "properties": {
-        "name": "Place 9",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "11 AM - 9 PM"
-      }
-    },
-    {
-      "id": "12",
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.043959498405,
-          38.903883387232
-        ]
-      },
-      "properties": {
-        "name": "Place 10",
-        "phoneFormatted": "(202) 234-7336",
-        "addressFormatted": "33 Birchwood Drive",
-        "hoursFormatted": "8 AM - 10 PM"
-      }
-    }
-  ]
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.667864,42.963241 ]
+   },
+   "properties": {
+   "pu_id":"G00000003654",
+   "practice_name":"A Plus Medical Associates, PLLC",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2849 Michigan St NE",
+   "address_line_2":"Suite 102",
+   "city":"East Grand Rapids",
+   "state":"MI",
+   "zip_code":49506,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.43473,42.986275 ]
+   },
+   "properties": {
+   "pu_id":"B00000026243",
+   "practice_name":"AARON K CLARK MD PC",
+   "po":"Lake Huron PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1217 Kearney",
+   "address_line_2":"1",
+   "city":"Port Huron",
+   "state":"MI",
+   "zip_code":48060,
+   "county":"saint clair"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.417308,42.232299 ]
+   },
+   "properties": {
+   "pu_id":"B00000010000",
+   "practice_name":"Aaron M. VanWagnen MD, PLLC",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1310 Greenwood Avenue",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49203,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.399155,41.916674 ]
+   },
+   "properties": {
+   "pu_id":"B00000003259",
+   "practice_name":"Abdul Kabir, MD",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"219 W Front St",
+   "address_line_2":"",
+   "city":"Monroe",
+   "state":"MI",
+   "zip_code":48161,
+   "county":"monroe"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.667002,45.017618 ]
+   },
+   "properties": {
+   "pu_id":"B00000000062",
+   "practice_name":"Alcona Health Center - Alpena Services",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1185 US 23 N",
+   "address_line_2":"",
+   "city":"Alpena",
+   "state":"MI",
+   "zip_code":49707,
+   "county":"alpena"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.481444,45.63156 ]
+   },
+   "properties": {
+   "pu_id":"B00000030700",
+   "practice_name":"Alcona Health Center - Cheboygan Campus",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"740 S Main St, 2nd FL",
+   "address_line_2":"",
+   "city":"Cheboygan",
+   "state":"MI",
+   "zip_code":49721,
+   "county":"cheboygan"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.294689,44.656402 ]
+   },
+   "properties": {
+   "pu_id":"B00000000063",
+   "practice_name":"Alcona Health Center - Harrisville Services",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"205 N State St Ste A",
+   "address_line_2":"",
+   "city":"Harrisville",
+   "state":"MI",
+   "zip_code":48740,
+   "county":"alcona"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.612762,45.40714 ]
+   },
+   "properties": {
+   "pu_id":"B00000026552",
+   "practice_name":"Alcona Health Center - Indian River",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6135 Cressy",
+   "address_line_2":"Box 548",
+   "city":"Indian River",
+   "state":"MI",
+   "zip_code":49749,
+   "county":"cheboygan"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.464048,45.079006 ]
+   },
+   "properties": {
+   "pu_id":"B00000032520",
+   "practice_name":"Alcona Health Center - Long Rapids Plaza",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"346 Long Rapids Plz",
+   "address_line_2":"",
+   "city":"Alpena",
+   "state":"MI",
+   "zip_code":49707,
+   "county":"alpena"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.353068,44.45022 ]
+   },
+   "properties": {
+   "pu_id":"B00000029553",
+   "practice_name":"Alcona Health Center - Oscoda Services",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"208 S. State St.",
+   "address_line_2":"",
+   "city":"Oscoda",
+   "state":"MI",
+   "zip_code":48750,
+   "county":"iosco"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.230002,42.222856 ]
+   },
+   "properties": {
+   "pu_id":"B00000000083",
+   "practice_name":"Allenwood Family Health Care PC",
+   "po":"Olympia Medical LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"11368 Allen Road",
+   "address_line_2":"",
+   "city":"Taylor",
+   "state":"MI",
+   "zip_code":48180,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.955113,42.61561 ]
+   },
+   "properties": {
+   "pu_id":"B00000010241",
+   "practice_name":"Alliance Health - Clinton",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"43421 Garfield Rd.",
+   "address_line_2":"Suite 1",
+   "city":"Clinton Twp",
+   "state":"MI",
+   "zip_code":48038,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.994721,42.666615 ]
+   },
+   "properties": {
+   "pu_id":"B00000000153",
+   "practice_name":"Alliance Health - Macomb",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"50505 Schoenherr Rd.",
+   "address_line_2":"Ste 300",
+   "city":"Utica",
+   "state":"MI",
+   "zip_code":48315,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.879667,42.592852 ]
+   },
+   "properties": {
+   "pu_id":"B00000003229",
+   "practice_name":"Alliance Health - Mt Clemens",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"133 S. Main",
+   "address_line_2":"",
+   "city":"Mount Clemens",
+   "state":"MI",
+   "zip_code":48043,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.032655,42.65777 ]
+   },
+   "properties": {
+   "pu_id":"B00000004189",
+   "practice_name":"Alliance Health - Shelby",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"49310 Van Dyke Rd.",
+   "address_line_2":"",
+   "city":"Utica",
+   "state":"MI",
+   "zip_code":48317,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.006275,42.493258 ]
+   },
+   "properties": {
+   "pu_id":"B00000000546",
+   "practice_name":"Alliance Health - Warren",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"29703 Hoover",
+   "address_line_2":"Suite A",
+   "city":"Warren",
+   "state":"MI",
+   "zip_code":48093,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.658007,43.390689 ]
+   },
+   "properties": {
+   "pu_id":"B00000002458",
+   "practice_name":"Alma Family Practice PC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1335 N Pine Ave",
+   "address_line_2":"",
+   "city":"Alma",
+   "state":"MI",
+   "zip_code":48801,
+   "county":"gratiot"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.536086,43.0343 ]
+   },
+   "properties": {
+   "pu_id":"B00000032271",
+   "practice_name":"Amanda Winston, MD PLLC",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"9040 Davison Rd",
+   "address_line_2":"",
+   "city":"Davison",
+   "state":"MI",
+   "zip_code":48423,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.423096,42.648424 ]
+   },
+   "properties": {
+   "pu_id":"B00000003274",
+   "practice_name":"ANCHOR BAY CLINIC FAMILY MEDICAL CENTER PC",
+   "po":"Medical Network One",
+   "practice_type_fk":"PCP",
+   "address_line_1":"32901 23 MILE RD SUITE 100",
+   "address_line_2":"",
+   "city":"Chesterfield",
+   "state":"MI",
+   "zip_code":48047,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.649863,42.259863 ]
+   },
+   "properties": {
+   "pu_id":"B00000002466",
+   "practice_name":"Ann Arbor Endocrinology and Diabetes Associates, P.C.",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"5333 McAuley Dr",
+   "address_line_2":"#5115",
+   "city":"Ypsilanti",
+   "state":"MI",
+   "zip_code":48197,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.413474,42.363571 ]
+   },
+   "properties": {
+   "pu_id":"B00000032016",
+   "practice_name":"Anton Bahu DO",
+   "po":"Olympia Medical LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"38253 Ann Arbor Rd",
+   "address_line_2":"",
+   "city":"Livonia",
+   "state":"MI",
+   "zip_code":48150,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.276024,42.614254 ]
+   },
+   "properties": {
+   "pu_id":"G00000004492",
+   "practice_name":"Arcturus Healthcare PLC - Associates of Family Medicine",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1701 S Boulevard East",
+   "address_line_2":"Ste 240",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.018891,42.767903 ]
+   },
+   "properties": {
+   "pu_id":"B00000031836",
+   "practice_name":"Arcturus Healthcare PLC - Clearwater Family Practice",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"64321 Van Dyke",
+   "address_line_2":"",
+   "city":"Washington Township",
+   "state":"MI",
+   "zip_code":48095,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.276024,42.614254 ]
+   },
+   "properties": {
+   "pu_id":"G00000006855",
+   "practice_name":"Arcturus Healthcare PLC - Lifetime Medical Associates",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1701 S Boulevard East",
+   "address_line_2":"Ste 250",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.276024,42.614254 ]
+   },
+   "properties": {
+   "pu_id":"G00000004505",
+   "practice_name":"Arcturus Healthcare PLC - Macomb Oakland Adult Medicine",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1701 S Boulevard East",
+   "address_line_2":"Ste 290",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.245671,42.620016 ]
+   },
+   "properties": {
+   "pu_id":"B00000002211",
+   "practice_name":"Arcturus Healthcare PLC - Thomas J W Bering MD Richard C Weiermiller MD",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1055 South Blvd E",
+   "address_line_2":"Ste 220",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.17106,42.589205 ]
+   },
+   "properties": {
+   "pu_id":"B00000011051",
+   "practice_name":"Arcturus Healthcare PLC - Troy Internal Medicine",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4600 Investment Dr",
+   "address_line_2":"Ste 300",
+   "city":"Troy",
+   "state":"MI",
+   "zip_code":48098,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.385352,43.497181 ]
+   },
+   "properties": {
+   "pu_id":"B00000010023",
+   "practice_name":"Arshad Aqil, MD PLLC",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1070 E. Caro Rd",
+   "address_line_2":"Ste. 1",
+   "city":"Caro",
+   "state":"MI",
+   "zip_code":48723,
+   "county":"tuscola"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.756847,43.249423 ]
+   },
+   "properties": {
+   "pu_id":"B00000003923",
+   "practice_name":"Ascension Medical Group Birch Run Family Physicians",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"9900 E Birch Run Rd",
+   "address_line_2":"",
+   "city":"Birch Run",
+   "state":"MI",
+   "zip_code":48415,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.135351,43.188082 ]
+   },
+   "properties": {
+   "pu_id":"B00000002125",
+   "practice_name":"Ascension Medical Group Chesaning Family Practice",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1600 W Brady",
+   "address_line_2":"",
+   "city":"Chesaning",
+   "state":"MI",
+   "zip_code":48616,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.755851,43.335226 ]
+   },
+   "properties": {
+   "pu_id":"B00000003385",
+   "practice_name":"Ascension Medical Group Frankenmuth Family Physicians",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1027 W Genesee St",
+   "address_line_2":"",
+   "city":"Frankenmuth",
+   "state":"MI",
+   "zip_code":48734,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.986969,43.451376 ]
+   },
+   "properties": {
+   "pu_id":"G00000007274",
+   "practice_name":"Ascension Medical Group Heritage Family Physicians",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3570 Shattuck Rd",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48603,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.945579,43.423582 ]
+   },
+   "properties": {
+   "pu_id":"B00000030450",
+   "practice_name":"Ascension Medical Group Primary Healthcare",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1015 S. Washington Ave",
+   "address_line_2":"2nd Floor",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48601,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.603203,43.378168 ]
+   },
+   "properties": {
+   "pu_id":"B00000003111",
+   "practice_name":"Ascension Medical Group Vassar Family Medicine",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1212 W Saginaw Rd",
+   "address_line_2":"",
+   "city":"Vassar",
+   "state":"MI",
+   "zip_code":48768,
+   "county":"tuscola"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.508978,44.275982 ]
+   },
+   "properties": {
+   "pu_id":"B00000001952",
+   "practice_name":"Ascension St Joseph Hospital Huron Family Medicine",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"700 German St",
+   "address_line_2":"",
+   "city":"Tawas City",
+   "state":"MI",
+   "zip_code":48763,
+   "county":"iosco"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.329531,44.452546 ]
+   },
+   "properties": {
+   "pu_id":"B00000001954",
+   "practice_name":"Ascension St Joseph Hospital Oscoda Health Park",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5935 N Huron Road",
+   "address_line_2":"",
+   "city":"Oscoda",
+   "state":"MI",
+   "zip_code":48750,
+   "county":"iosco"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.539703,43.012164 ]
+   },
+   "properties": {
+   "pu_id":"B00000000149",
+   "practice_name":"Asif Ishaque, M.D., P.C.",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"9244 Lapeer Rd",
+   "address_line_2":"",
+   "city":"Davison",
+   "state":"MI",
+   "zip_code":48423,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.052059,42.619713 ]
+   },
+   "properties": {
+   "pu_id":"B00000002472",
+   "practice_name":"Associates in Family Practice",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"42755 Mound Road",
+   "address_line_2":"",
+   "city":"Sterling Hts",
+   "state":"MI",
+   "zip_code":48314,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.364994,42.542243 ]
+   },
+   "properties": {
+   "pu_id":"B00000002473",
+   "practice_name":"Associates in Internal Medicine",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5777 Maple Road",
+   "address_line_2":"Suite 140",
+   "city":"W Bloomfield",
+   "state":"MI",
+   "zip_code":48322,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.227162,42.170675 ]
+   },
+   "properties": {
+   "pu_id":"B00000020592",
+   "practice_name":"Badhwar Associates",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"19135 Allen Road",
+   "address_line_2":"Suite 106",
+   "city":"Brownstown Township",
+   "state":"MI",
+   "zip_code":48183,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.888865,43.594468 ]
+   },
+   "properties": {
+   "pu_id":"B00000002485",
+   "practice_name":"Bay Area Health Clinic, PC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3720 Katalin Ct Ste 100",
+   "address_line_2":"",
+   "city":"Bay City",
+   "state":"MI",
+   "zip_code":48706,
+   "county":"bay"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.271437,42.611471 ]
+   },
+   "properties": {
+   "pu_id":"B00000000284",
+   "practice_name":"Bloomfield Endocrinology Center",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"43902 Woodward Ave.",
+   "address_line_2":"240",
+   "city":"Bloomfield",
+   "state":"MI",
+   "zip_code":48302,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.929395,42.607255 ]
+   },
+   "properties": {
+   "pu_id":"B00000030979",
+   "practice_name":"BlueSky Health",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"138 W. Highland Rd. STE 950",
+   "address_line_2":"",
+   "city":"Howell",
+   "state":"MI",
+   "zip_code":48843,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.437083,42.2381 ]
+   },
+   "properties": {
+   "pu_id":"B00000031492",
+   "practice_name":"Brad E Kremer",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2195 Spring Arbor Road",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49203,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.450036,42.475091 ]
+   },
+   "properties": {
+   "pu_id":"B00000002509",
+   "practice_name":"Brateman Family Practice",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"40015 Grand River Avenue",
+   "address_line_2":"Suite 100",
+   "city":"Novi",
+   "state":"MI",
+   "zip_code":48375,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.969388,43.792807 ]
+   },
+   "properties": {
+   "pu_id":"B00000003303",
+   "practice_name":"Brent Raap, DO",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4293 N. Huron Rd",
+   "address_line_2":"",
+   "city":"Pinconning",
+   "state":"MI",
+   "zip_code":48650,
+   "county":"bay"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.750857,42.242958 ]
+   },
+   "properties": {
+   "pu_id":"B00000000315",
+   "practice_name":"Briarwood Fam Med",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1801 Briarwood Circle",
+   "address_line_2":"",
+   "city":"Ann Arbor",
+   "state":"MI",
+   "zip_code":48109,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.780999,42.53054 ]
+   },
+   "properties": {
+   "pu_id":"G00016609000",
+   "practice_name":"Brighton Family Physicians",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"205 West Grand River Avenue",
+   "address_line_2":"Suite 200",
+   "city":"Brighton",
+   "state":"MI",
+   "zip_code":48116,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.795235,42.544795 ]
+   },
+   "properties": {
+   "pu_id":"B00000002408",
+   "practice_name":"Brighton Gen Med",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8001 Challis Road",
+   "address_line_2":"Box 5762",
+   "city":"Brighton",
+   "state":"MI",
+   "zip_code":48116,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000034073",
+   "practice_name":"Brighton Med-Peds",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8001 Challis Rd",
+   "address_line_2":"Box 5762",
+   "city":"Brighton",
+   "state":"MI",
+   "zip_code":48116,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.579858,42.26305 ]
+   },
+   "properties": {
+   "pu_id":"B00000028837",
+   "practice_name":"Bronson Diabetes and Endocrinology Center",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"7901 S. 12th Street",
+   "address_line_2":"Suiite 200",
+   "city":"Portage",
+   "state":"MI",
+   "zip_code":49024,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.240018,42.268173 ]
+   },
+   "properties": {
+   "pu_id":"B00000031432",
+   "practice_name":"Bronson Family Medicine - Helmer Rd",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2900 Watkins Rd",
+   "address_line_2":"",
+   "city":"Battle Creek",
+   "state":"MI",
+   "zip_code":49015,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.580188,42.28656 ]
+   },
+   "properties": {
+   "pu_id":"B00000000322",
+   "practice_name":"Bronson Family Medicine - John St",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"601 John Street",
+   "address_line_2":"Suite M-020",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49007,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.986061,42.269436 ]
+   },
+   "properties": {
+   "pu_id":"B00000033181",
+   "practice_name":"Bronson Family Medicine - Marshall",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"212 Winston Dr.",
+   "address_line_2":"",
+   "city":"Marshall",
+   "state":"MI",
+   "zip_code":49068,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.629114,42.197792 ]
+   },
+   "properties": {
+   "pu_id":"B00000003312",
+   "practice_name":"Bronson Family Medicine - Portage",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3300 West Centre Street",
+   "address_line_2":"",
+   "city":"Portage",
+   "state":"MI",
+   "zip_code":49024,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.558828,42.309233 ]
+   },
+   "properties": {
+   "pu_id":"B00000027486",
+   "practice_name":"Bronson Family Medicine - Shaffer Street",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1820 Shaffer Street",
+   "address_line_2":"",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49048,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.654324,42.268343 ]
+   },
+   "properties": {
+   "pu_id":"B00000000324",
+   "practice_name":"Bronson Family Medicine - Stadium Dr.",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5629 Stadium Drive",
+   "address_line_2":"Suite D",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49009,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.684048,42.235343 ]
+   },
+   "properties": {
+   "pu_id":"B00000029125",
+   "practice_name":"Bronson Family Medicine - The Groves",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6938 Elm Valley Drive",
+   "address_line_2":"",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49009,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.53977,42.125134 ]
+   },
+   "properties": {
+   "pu_id":"B00000031830",
+   "practice_name":"Bronson Family Medicine Vicksburg",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"13320 N Boulevard St",
+   "address_line_2":"",
+   "city":"Vicksburg",
+   "state":"MI",
+   "zip_code":49097,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.187474,42.316557 ]
+   },
+   "properties": {
+   "pu_id":"B00000011452",
+   "practice_name":"Bronson Internal Medicine - Battle Creek",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2845 Capital Avenue SW",
+   "address_line_2":"Suite 302",
+   "city":"Battle Creek",
+   "state":"MI",
+   "zip_code":49015,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.580188,42.28656 ]
+   },
+   "properties": {
+   "pu_id":"B00000027487",
+   "practice_name":"Bronson Internal Medicine - John Street",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"601 John Street",
+   "address_line_2":"Suite M-170",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49007,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.62002,42.201596 ]
+   },
+   "properties": {
+   "pu_id":"B00000000329",
+   "practice_name":"Bronson Internal Medicine - Portage",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2600 West Centre Street",
+   "address_line_2":"",
+   "city":"Portage",
+   "state":"MI",
+   "zip_code":49024,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.660284,42.267099 ]
+   },
+   "properties": {
+   "pu_id":"B00000000327",
+   "practice_name":"Bronson Internal Medicine - Stadium Dr.",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5629 Stadium Drive",
+   "address_line_2":"Suite B",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49009,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.646266,42.296199 ]
+   },
+   "properties": {
+   "pu_id":"B00000027488",
+   "practice_name":"Bronson Internal Medicine Pediatrics Specialists - Lifetime Wellness",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4613 West Main St.",
+   "address_line_2":"Suite A",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49006,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.11261,42.312838 ]
+   },
+   "properties": {
+   "pu_id":"B00000029598",
+   "practice_name":"Bronson LakeView Family Care - Bangor",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"520 Railroad Street",
+   "address_line_2":"",
+   "city":"Bangor",
+   "state":"MI",
+   "zip_code":49013,
+   "county":"van buren"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.259006,42.404027 ]
+   },
+   "properties": {
+   "pu_id":"B00000010361",
+   "practice_name":"Bronson Lakeview Family Care - Blue Star",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"930 Blue Star Hwy",
+   "address_line_2":"",
+   "city":"South Haven",
+   "state":"MI",
+   "zip_code":49090,
+   "county":"van buren"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.895205,42.203901 ]
+   },
+   "properties": {
+   "pu_id":"B00000003314",
+   "practice_name":"Bronson LakeView Family Care - Internal Medicine",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"451 Health Parkway",
+   "address_line_2":"Suite F",
+   "city":"Paw Paw",
+   "state":"MI",
+   "zip_code":49079,
+   "county":"van buren"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.895205,42.203901 ]
+   },
+   "properties": {
+   "pu_id":"B00000000330",
+   "practice_name":"Bronson LakeView Family Care - Suite A",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"451 Health Parkway",
+   "address_line_2":"Suite A",
+   "city":"Paw Paw",
+   "state":"MI",
+   "zip_code":49079,
+   "county":"van buren"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.895205,42.203901 ]
+   },
+   "properties": {
+   "pu_id":"B00000003313",
+   "practice_name":"Bronson LakeView Family Care - Suite B",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"451 Health Parkway",
+   "address_line_2":"Suite B",
+   "city":"Paw Paw",
+   "state":"MI",
+   "zip_code":49079,
+   "county":"van buren"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.895205,42.203901 ]
+   },
+   "properties": {
+   "pu_id":"B00000011060",
+   "practice_name":"Bronson LakeView Family Care - Suite G",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"451 Health Parkway",
+   "address_line_2":"Suite G",
+   "city":"Paw Paw",
+   "state":"MI",
+   "zip_code":49079,
+   "county":"van buren"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.689026,42.240574 ]
+   },
+   "properties": {
+   "pu_id":"B00000033286",
+   "practice_name":"Bronson Primary Care Partners - 9th St.",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5973 Beatrice Dr.",
+   "address_line_2":"",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49009,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.556941,42.200843 ]
+   },
+   "properties": {
+   "pu_id":"B00000033288",
+   "practice_name":"Bronson Primary Care Partners - East Centre Ave.",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2700 East Centre Ave.",
+   "address_line_2":"",
+   "city":"Portage",
+   "state":"MI",
+   "zip_code":49002,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.455277,42.383073 ]
+   },
+   "properties": {
+   "pu_id":"B00000033289",
+   "practice_name":"Bronson Primary Care Partners - Richland",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8906 M-89",
+   "address_line_2":"",
+   "city":"Richland",
+   "state":"MI",
+   "zip_code":49083,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.683239,42.200302 ]
+   },
+   "properties": {
+   "pu_id":"B00000033293",
+   "practice_name":"Bronson Primary Care Partners - Texas Corners",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8088 Vineyard Parkway",
+   "address_line_2":"",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49009,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.651409,41.942623 ]
+   },
+   "properties": {
+   "pu_id":"B00000033291",
+   "practice_name":"Bronson Primary Care Partners - Three Rivers",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"601 S. US 131",
+   "address_line_2":"",
+   "city":"Three Rivers",
+   "state":"MI",
+   "zip_code":49093,
+   "county":"saint joseph"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.671779,42.295915 ]
+   },
+   "properties": {
+   "pu_id":"B00000033292",
+   "practice_name":"Bronson Primary Care Partners - West Main St.",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6210 West Main St.",
+   "address_line_2":"",
+   "city":"Kalamazoo",
+   "state":"MI",
+   "zip_code":49009,
+   "county":"kalamazoo"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.264113,42.390812 ]
+   },
+   "properties": {
+   "pu_id":"B00000028444",
+   "practice_name":"Bronson South Haven Family Medicine",
+   "po":"Bronson Network LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"965 South Bailey Avenue",
+   "address_line_2":"",
+   "city":"South Haven",
+   "state":"MI",
+   "zip_code":49090,
+   "county":"van buren"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.137956,42.783009 ]
+   },
+   "properties": {
+   "pu_id":"B00000025443",
+   "practice_name":"C. Richard Barnett, MD, PLC",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1020 4th Ave",
+   "address_line_2":"",
+   "city":"Lake Odessa",
+   "state":"MI",
+   "zip_code":48849,
+   "county":"ionia"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.397164,44.225156 ]
+   },
+   "properties": {
+   "pu_id":"B00000025184",
+   "practice_name":"Cadillac Family Physicians, PC",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8950 Professional Drive",
+   "address_line_2":"",
+   "city":"Cadillac",
+   "state":"MI",
+   "zip_code":49601,
+   "county":"wexford"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.488815,42.314052 ]
+   },
+   "properties": {
+   "pu_id":"B00000002410",
+   "practice_name":"Canton Gen Med",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1051 North Canton Center Road",
+   "address_line_2":"",
+   "city":"Canton",
+   "state":"MI",
+   "zip_code":48187,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.488815,42.314052 ]
+   },
+   "properties": {
+   "pu_id":"B00000002411",
+   "practice_name":"Canton Med-Peds",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1051 North Canton Center Road",
+   "address_line_2":"",
+   "city":"Canton",
+   "state":"MI",
+   "zip_code":48187,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.501738,42.67689 ]
+   },
+   "properties": {
+   "pu_id":"B00000021253",
+   "practice_name":"Capital Internal Medicine Associates",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3955 Patient Care Dr",
+   "address_line_2":"Ste A",
+   "city":"Lansing",
+   "state":"MI",
+   "zip_code":48911,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.015248,41.91953 ]
+   },
+   "properties": {
+   "pu_id":"B00000028624",
+   "practice_name":"Cassopolis Family Clinic",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"261 M62 North",
+   "address_line_2":"",
+   "city":"Cassopolis",
+   "state":"MI",
+   "zip_code":49031,
+   "county":"cass"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.243966,42.306124 ]
+   },
+   "properties": {
+   "pu_id":"B00000030314",
+   "practice_name":"Cedar Medical Associates",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1951 Monroe Street",
+   "address_line_2":"",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48124,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.906393,42.447084 ]
+   },
+   "properties": {
+   "pu_id":"B00000031398",
+   "practice_name":"Center for Preventive Medicine PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"20870 Mack Ave",
+   "address_line_2":"",
+   "city":"Grosse Pointe Woods",
+   "state":"MI",
+   "zip_code":48236,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.923733,43.598647 ]
+   },
+   "properties": {
+   "pu_id":"B00000010084",
+   "practice_name":"Charlotte Yang, MD PLC",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4817 Professional Dr",
+   "address_line_2":"",
+   "city":"Bay City",
+   "state":"MI",
+   "zip_code":48706,
+   "county":"bay"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.016784,42.308374 ]
+   },
+   "properties": {
+   "pu_id":"B00000002413",
+   "practice_name":"Chelsea Fam Med",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"14700 East Old U.S. Highway 12",
+   "address_line_2":"",
+   "city":"Chelsea",
+   "state":"MI",
+   "zip_code":48118,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.649408,44.793879 ]
+   },
+   "properties": {
+   "pu_id":"B00000011778",
+   "practice_name":"Cherry Bend Family Care, PLC",
+   "po":"Novello Physicians Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"10223 E. Cherry Bend Rd.",
+   "address_line_2":"",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49684,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.537659,42.712202 ]
+   },
+   "properties": {
+   "pu_id":"B00000011501",
+   "practice_name":"CIMA - Mount Hope",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1003 E. Mount Hope Ave.",
+   "address_line_2":"",
+   "city":"Lansing",
+   "state":"MI",
+   "zip_code":48910,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.282399,42.681092 ]
+   },
+   "properties": {
+   "pu_id":"B00000011663",
+   "practice_name":"CIMA - Williamston Primary Care",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"839 Putnam St",
+   "address_line_2":"",
+   "city":"Williamston",
+   "state":"MI",
+   "zip_code":48895,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.937141,42.497258 ]
+   },
+   "properties": {
+   "pu_id":"B00000033883",
+   "practice_name":"Clara Kamath-Wood, MD, PLLC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"18245 10 Mile Rd",
+   "address_line_2":"Suite 120",
+   "city":"Roseville",
+   "state":"MI",
+   "zip_code":48066,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.964578,43.474973 ]
+   },
+   "properties": {
+   "pu_id":"B00000031137",
+   "practice_name":"Claudia Zacharek, MD",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"4677 Towne Centre",
+   "address_line_2":"Ste. 303",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48604,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.146015,42.529719 ]
+   },
+   "properties": {
+   "pu_id":"B00000000441",
+   "practice_name":"Clawson Internists PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"21 South Main St",
+   "address_line_2":"",
+   "city":"Clawson",
+   "state":"MI",
+   "zip_code":48017,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.542836,42.981544 ]
+   },
+   "properties": {
+   "pu_id":"B00000027227",
+   "practice_name":"Clinton County Medical Center, PC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1005 S US 27, Ste 100",
+   "address_line_2":"",
+   "city":"Saint Johns",
+   "state":"MI",
+   "zip_code":48879,
+   "county":"clinton"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.865956,43.351328 ]
+   },
+   "properties": {
+   "pu_id":"B00000001013",
+   "practice_name":"CMG - Castillo",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6614 Dixie Hwy",
+   "address_line_2":"",
+   "city":"Bridgeport",
+   "state":"MI",
+   "zip_code":48722,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.795682,43.250134 ]
+   },
+   "properties": {
+   "pu_id":"B00000025159",
+   "practice_name":"CMG - Grimshaw",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8470 Main St",
+   "address_line_2":"",
+   "city":"Birch Run",
+   "state":"MI",
+   "zip_code":48415,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.119697,43.517507 ]
+   },
+   "properties": {
+   "pu_id":"B00000032678",
+   "practice_name":"CMG - Rathkamp",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7340 Midland Rd",
+   "address_line_2":"",
+   "city":"Freeland",
+   "state":"MI",
+   "zip_code":48623,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.041344,43.423402 ]
+   },
+   "properties": {
+   "pu_id":"B00000030547",
+   "practice_name":"CMG - Stevenson",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"835 Midland Road",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48603,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.027635,43.416512 ]
+   },
+   "properties": {
+   "pu_id":"B00000033203",
+   "practice_name":"CMU Health - Endocrinology",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"1000 Houghton Ave",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48602,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.948203,43.479209 ]
+   },
+   "properties": {
+   "pu_id":"B00000003995",
+   "practice_name":"CMU Health - Family Medicine",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1575 Concentric Blvd Ste 1",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48604,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.02298,43.416724 ]
+   },
+   "properties": {
+   "pu_id":"B00000003470",
+   "practice_name":"CMU Health - Primary Care",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5421 N Colony Drive",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48638,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.955,43.429682 ]
+   },
+   "properties": {
+   "pu_id":"B00000033536",
+   "practice_name":"CMU Health Department of Endocrinology",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"1000 Houghton Ave",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48602,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.400397,41.940431 ]
+   },
+   "properties": {
+   "pu_id":"B00000033050",
+   "practice_name":"COMPEAN FAMILY MEDICINE PLLC",
+   "po":"Medical Network One",
+   "practice_type_fk":"PCP",
+   "address_line_1":"327 STEWART ROAD",
+   "address_line_2":"",
+   "city":"Monroe",
+   "state":"MI",
+   "zip_code":48162,
+   "county":"monroe"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.898967,42.495357 ]
+   },
+   "properties": {
+   "pu_id":"B00000004216",
+   "practice_name":"Corewell Health Beaumont Grosse Pointe Hospital Family Medicine - 16815 E J",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"16815 E. Jefferson",
+   "address_line_2":"#120",
+   "city":"Grosse Pointe",
+   "state":"MI",
+   "zip_code":48230,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.535673,41.903196 ]
+   },
+   "properties": {
+   "pu_id":"B00000029350",
+   "practice_name":"Corewell Health Diabetes Endocrinology - Royalton",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"3950 Hollywood Rd.",
+   "address_line_2":"Suite 288",
+   "city":"Saint Joseph",
+   "state":"MI",
+   "zip_code":49085,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.149932,42.658366 ]
+   },
+   "properties": {
+   "pu_id":"B00000030273",
+   "practice_name":"Corewell Health Endocrine Clinic - 1555 E South Blvd",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"1555 E. South Blvd",
+   "address_line_2":"Suite 360",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.889097,42.496965 ]
+   },
+   "properties": {
+   "pu_id":"B00000031885",
+   "practice_name":"Corewell Health Endocrine Clinic - 23715 Little Mack Ave",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"23715 Little Mack",
+   "address_line_2":"Ste 100",
+   "city":"Saint Clair Shores",
+   "state":"MI",
+   "zip_code":48080,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.149932,42.658366 ]
+   },
+   "properties": {
+   "pu_id":"B00000031603",
+   "practice_name":"Corewell Health Family Medicine - 1202 Walton Blvd",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1202 Walton Blvd",
+   "address_line_2":"Ste 216",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.067832,42.518189 ]
+   },
+   "properties": {
+   "pu_id":"B00000026465",
+   "practice_name":"Corewell Health Family Medicine - 29245 Ryan Rd",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"29245 Ryan Rd",
+   "address_line_2":"",
+   "city":"Warren",
+   "state":"MI",
+   "zip_code":48092,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.83859,42.697332 ]
+   },
+   "properties": {
+   "pu_id":"B00000033516",
+   "practice_name":"Corewell Health Family Medicine - Chesterfield",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"50630 Chesterfield Rd.",
+   "address_line_2":"",
+   "city":"Chesterfield",
+   "state":"MI",
+   "zip_code":48051,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000033989",
+   "practice_name":"Corewell Health Farmington Hills Hosp Rheumatology - 28100 Grand River Ave",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"28100 Grand Rive Ave",
+   "address_line_2":"Suite 314",
+   "city":"Farmingtn Hls",
+   "state":"MI",
+   "zip_code":48336,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.150913,42.56807 ]
+   },
+   "properties": {
+   "pu_id":"B00000030806",
+   "practice_name":"Corewell Health Internal Medicine - 130 Town Center Dr",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"130 Town Center Dr",
+   "address_line_2":"Ste 209",
+   "city":"Troy",
+   "state":"MI",
+   "zip_code":48084,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.309583,41.824458 ]
+   },
+   "properties": {
+   "pu_id":"B00000027025",
+   "practice_name":"Corewell Health Primary Care - Longmeadow",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4 Longmeadow Village Drive",
+   "address_line_2":"",
+   "city":"Niles",
+   "state":"MI",
+   "zip_code":49120,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.535673,41.903196 ]
+   },
+   "properties": {
+   "pu_id":"B00000028688",
+   "practice_name":"Corewell Health Primary Care - Royalton",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3950 Hollywood Rd",
+   "address_line_2":"Suite 230",
+   "city":"Saint Joseph",
+   "state":"MI",
+   "zip_code":49085,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.562362,41.943951 ]
+   },
+   "properties": {
+   "pu_id":"B00000001989",
+   "practice_name":"Corewell Health Southwestern Medical Primary Care - Bridgman",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"9625 Red Arrow Highway",
+   "address_line_2":"",
+   "city":"Bridgman",
+   "state":"MI",
+   "zip_code":49106,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.519465,42.014487 ]
+   },
+   "properties": {
+   "pu_id":"B00000001993",
+   "practice_name":"Corewell Health Southwestern Medical Primary Care - Stevensville",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5515 Cleveland Ave Ste 5",
+   "address_line_2":"",
+   "city":"Stevensville",
+   "state":"MI",
+   "zip_code":49127,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.297615,42.193739 ]
+   },
+   "properties": {
+   "pu_id":"B00000027024",
+   "practice_name":"Corewell Health Watervliet Hospital Family Medicine - Coloma",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6701 Paw Paw Ave",
+   "address_line_2":"",
+   "city":"Coloma",
+   "state":"MI",
+   "zip_code":49038,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.247018,41.826706 ]
+   },
+   "properties": {
+   "pu_id":"B00000001990",
+   "practice_name":"Corewell Health Watervliet Hospital Southwestern Medical Fam Med- Niles",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2002 S 11th Street",
+   "address_line_2":"",
+   "city":"Niles",
+   "state":"MI",
+   "zip_code":49120,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.347917,42.295255 ]
+   },
+   "properties": {
+   "pu_id":"B00000004354",
+   "practice_name":"Corewell Health Wayne Hospital Family Medicine - Westland",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2001 S Merriman Road",
+   "address_line_2":"Suite 100",
+   "city":"Westland",
+   "state":"MI",
+   "zip_code":48186,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.114343,44.629189 ]
+   },
+   "properties": {
+   "pu_id":"B00000025194",
+   "practice_name":"Crystal Lake Clinic, PC",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6227 Frankfort Hwy",
+   "address_line_2":"",
+   "city":"Benzonia",
+   "state":"MI",
+   "zip_code":49616,
+   "county":"benzie"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.667864,42.963241 ]
+   },
+   "properties": {
+   "pu_id":"B00000032976",
+   "practice_name":"Curry Family Medicine",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5258 Plainfield Ave NE",
+   "address_line_2":"Suite F",
+   "city":"Grand Rapids",
+   "state":"MI",
+   "zip_code":49525,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.770229,43.016492 ]
+   },
+   "properties": {
+   "pu_id":"B00000002585",
+   "practice_name":"Damayanthi Pandrangi, M.D., P.C.",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1170 Charter Dr Ste E",
+   "address_line_2":"",
+   "city":"Flint",
+   "state":"MI",
+   "zip_code":48532,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.417308,42.232299 ]
+   },
+   "properties": {
+   "pu_id":"B00000000507",
+   "practice_name":"David Halsey, MD",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1310 Greenwood Avenue",
+   "address_line_2":"Suite 2",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49203,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.033965,42.712642 ]
+   },
+   "properties": {
+   "pu_id":"B00000010096",
+   "practice_name":"David W Calton MD PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8180 26 Mile Rd",
+   "address_line_2":"Ste 100",
+   "city":"Shelby Township",
+   "state":"MI",
+   "zip_code":48316,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.177643,42.333319 ]
+   },
+   "properties": {
+   "pu_id":"B00000000522",
+   "practice_name":"DayOne Family Healthcare",
+   "po":"Integrated Health Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"363 Fremont Str",
+   "address_line_2":"Suite 203",
+   "city":"Battle Creek",
+   "state":"MI",
+   "zip_code":49017,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.270583,42.288709 ]
+   },
+   "properties": {
+   "pu_id":"B00000000525",
+   "practice_name":"Dearborn Family Clinic PC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3133 S Telegraph",
+   "address_line_2":"",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48124,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.926522,43.601155 ]
+   },
+   "properties": {
+   "pu_id":"B00000003883",
+   "practice_name":"Dialysis and Nephrology Consultants, PC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"648 Progress St.",
+   "address_line_2":"Ste 101",
+   "city":"West Branch",
+   "state":"MI",
+   "zip_code":48661,
+   "county":"ogemaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.983331,43.452024 ]
+   },
+   "properties": {
+   "pu_id":"B00000000556",
+   "practice_name":"Dominador Laynes, MD",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3150 Hallmark Ct",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48603,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.682663,42.320198 ]
+   },
+   "properties": {
+   "pu_id":"B00000002416",
+   "practice_name":"Domino s Farms Fam Med",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"24 Frank Lloyd Wright Drive",
+   "address_line_2":"Suite 2300, Reception: Lobby H",
+   "city":"Ann Arbor",
+   "state":"MI",
+   "zip_code":48105,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.449797,42.229418 ]
+   },
+   "properties": {
+   "pu_id":"B00000027086",
+   "practice_name":"Donald C. Jones, MD, PC",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2600 Spring Arbor Road",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49203,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.212367,42.260761 ]
+   },
+   "properties": {
+   "pu_id":"B00000031060",
+   "practice_name":"Downriver Family Physicians PC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"15101 Southfield Road",
+   "address_line_2":"",
+   "city":"Allen Park",
+   "state":"MI",
+   "zip_code":48101,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.213098,42.256858 ]
+   },
+   "properties": {
+   "pu_id":"B00000031352",
+   "practice_name":"Downriver Internists",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"21801 Goddard Road",
+   "address_line_2":"",
+   "city":"Taylor",
+   "state":"MI",
+   "zip_code":48180,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.667864,42.963241 ]
+   },
+   "properties": {
+   "pu_id":"B00000000587",
+   "practice_name":"East Paris Internal Medicine Associates PC",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1000 East Paris, SE",
+   "address_line_2":"Suite 260",
+   "city":"Grand Rapids",
+   "state":"MI",
+   "zip_code":49546,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.477184,42.119971 ]
+   },
+   "properties": {
+   "pu_id":"B00000028687",
+   "practice_name":"Edgewater Family Health",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"405 Momany Dr",
+   "address_line_2":"",
+   "city":"Saint Joseph",
+   "state":"MI",
+   "zip_code":49085,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.682792,42.317485 ]
+   },
+   "properties": {
+   "pu_id":"B00000029725",
+   "practice_name":"Emmaus Health Partners",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"24 Frank Lloyd Wright Dr  L2200",
+   "address_line_2":"",
+   "city":"Ann Arbor",
+   "state":"MI",
+   "zip_code":48106,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.060093,44.811108 ]
+   },
+   "properties": {
+   "pu_id":"B00000032616",
+   "practice_name":"Empire Family Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"9975 W. Ottawa Ave.",
+   "address_line_2":"",
+   "city":"Empire",
+   "state":"MI",
+   "zip_code":49630,
+   "county":"leelanau"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.088834,42.639202 ]
+   },
+   "properties": {
+   "pu_id":"B00000027824",
+   "practice_name":"Endocrine & Metabolic Disorders Center PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"2177 Auburn Rd",
+   "address_line_2":"",
+   "city":"Shelby Township",
+   "state":"MI",
+   "zip_code":48317,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.775178,43.014931 ]
+   },
+   "properties": {
+   "pu_id":"B00000000616",
+   "practice_name":"Endocrine Consultants of Mid-Michigan",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"5040 Villa Linde Pkwy",
+   "address_line_2":"",
+   "city":"Flint",
+   "state":"MI",
+   "zip_code":48532,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.172104,42.650013 ]
+   },
+   "properties": {
+   "pu_id":"B00000021132",
+   "practice_name":"Endocrine Diabetes & Consultants PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"2970 Crooks Rd",
+   "address_line_2":"Ste A",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48309,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.468257,42.718175 ]
+   },
+   "properties": {
+   "pu_id":"B00000000632",
+   "practice_name":"FAM - Family Medicine",
+   "po":"MSU Health Care, Inc.",
+   "practice_type_fk":"PCP",
+   "address_line_1":"804 Service Road",
+   "address_line_2":"A 225 Clinical Center",
+   "city":"East Lansing",
+   "state":"MI",
+   "zip_code":48824,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.436397,42.469106 ]
+   },
+   "properties": {
+   "pu_id":"B00000011888",
+   "practice_name":"Family Care Physicians PC",
+   "po":"Olympia Medical LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"39500 W. 10 Mile Rd",
+   "address_line_2":"Ste 100",
+   "city":"Novi",
+   "state":"MI",
+   "zip_code":48375,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.284499,42.491434 ]
+   },
+   "properties": {
+   "pu_id":"B00000003381",
+   "practice_name":"Family Medicine",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"29255 Northwestern Highway",
+   "address_line_2":"Suite 203",
+   "city":"Southfield",
+   "state":"MI",
+   "zip_code":48034,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.728813,42.741438 ]
+   },
+   "properties": {
+   "pu_id":"B00000032622",
+   "practice_name":"Family Medicine of Michigan",
+   "po":"Novello Physicians Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1035 Charlevoix Dr. #100",
+   "address_line_2":"",
+   "city":"Grand Ledge",
+   "state":"MI",
+   "zip_code":48837,
+   "county":"eaton"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.38592,44.252899 ]
+   },
+   "properties": {
+   "pu_id":"B00000025195",
+   "practice_name":"Family Practice of Cadillac, PC",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"827 E. Division",
+   "address_line_2":"",
+   "city":"Cadillac",
+   "state":"MI",
+   "zip_code":49601,
+   "county":"wexford"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.98677,42.482068 ]
+   },
+   "properties": {
+   "pu_id":"B00000002193",
+   "practice_name":"Family Practice/Oakland Medical Group, a Division of Michigan Healthcare Pr",
+   "po":"Medical Network One",
+   "practice_type_fk":"PCP",
+   "address_line_1":"25600 SCHOENHERR ROAD",
+   "address_line_2":"",
+   "city":"Warren",
+   "state":"MI",
+   "zip_code":48089,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.302371,42.644963 ]
+   },
+   "properties": {
+   "pu_id":"B00000032683",
+   "practice_name":"Family Tree Medical Associates",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1009 W. Green St.",
+   "address_line_2":"",
+   "city":"Hastings",
+   "state":"MI",
+   "zip_code":49058,
+   "county":"barry"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.797282,43.061212 ]
+   },
+   "properties": {
+   "pu_id":"B00000000653",
+   "practice_name":"Farhan M Khan, M.D., P.C.",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6122 West Pierson",
+   "address_line_2":"Suite5",
+   "city":"Flushing",
+   "state":"MI",
+   "zip_code":48433,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.709096,42.796839 ]
+   },
+   "properties": {
+   "pu_id":"B00000000661",
+   "practice_name":"Fenton Medical Center, P.C.",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"102 N Adelaide St Ste 100",
+   "address_line_2":"",
+   "city":"Fenton",
+   "state":"MI",
+   "zip_code":48430,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.717195,43.020394 ]
+   },
+   "properties": {
+   "pu_id":"B00000000675",
+   "practice_name":"Flushing Road Internal Medicine and Pediatrics",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1201 Flushing Rd Ste 1",
+   "address_line_2":"",
+   "city":"Flint",
+   "state":"MI",
+   "zip_code":48504,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.030203,42.580312 ]
+   },
+   "properties": {
+   "pu_id":"B00000003240",
+   "practice_name":"Forum Medical Clinic PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"43184 Dequindre Rd",
+   "address_line_2":"Ste 202",
+   "city":"Sterling Heights",
+   "state":"MI",
+   "zip_code":48314,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000034253",
+   "practice_name":"Foster Family Primary Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"550 Munson Ave",
+   "address_line_2":"",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49686,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.070827,42.649693 ]
+   },
+   "properties": {
+   "pu_id":"B00000010125",
+   "practice_name":"Fowlerville Medical Center",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"202 E. Van Riper",
+   "address_line_2":"Suite 100",
+   "city":"Fowlerville",
+   "state":"MI",
+   "zip_code":48836,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.213249,42.261041 ]
+   },
+   "properties": {
+   "pu_id":"B00000032355",
+   "practice_name":"Ghassan Atto MD PC",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"14825 Southfield Road",
+   "address_line_2":"",
+   "city":"Allen Park",
+   "state":"MI",
+   "zip_code":48101,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.652438,44.759557 ]
+   },
+   "properties": {
+   "pu_id":"B00000011790",
+   "practice_name":"Grand Traverse Internists PC",
+   "po":"Novello Physicians Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5015 North Royal Dr",
+   "address_line_2":"",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49684,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.5694,42.944532 ]
+   },
+   "properties": {
+   "pu_id":"B00000025495",
+   "practice_name":"Grand Valley Medical Specialists, PLC",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1000 East Paris Ave SE",
+   "address_line_2":"Suite 100",
+   "city":"Grand Rapids",
+   "state":"MI",
+   "zip_code":49546,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.208603,42.251846 ]
+   },
+   "properties": {
+   "pu_id":"B00000003490",
+   "practice_name":"Grass Lake Medical Center",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"12337 E. Michigan Avenue",
+   "address_line_2":"",
+   "city":"Grass Lake",
+   "state":"MI",
+   "zip_code":49240,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.042937,43.408049 ]
+   },
+   "properties": {
+   "pu_id":"B00000003731",
+   "practice_name":"Great Lakes Medical Associates, PC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1021 E Main St",
+   "address_line_2":"",
+   "city":"Edmore",
+   "state":"MI",
+   "zip_code":48829,
+   "county":"montcalm"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.869496,43.585053 ]
+   },
+   "properties": {
+   "pu_id":"B00000010134",
+   "practice_name":"Great Lakes Medical Center",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2110 16th Street, Ste 4",
+   "address_line_2":"",
+   "city":"Bay City",
+   "state":"MI",
+   "zip_code":48708,
+   "county":"bay"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.741742,42.634238 ]
+   },
+   "properties": {
+   "pu_id":"B00000003410",
+   "practice_name":"Hartland Family Physicians",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"11150 Highland Road",
+   "address_line_2":"",
+   "city":"Hartland",
+   "state":"MI",
+   "zip_code":48353,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.29084,42.645868 ]
+   },
+   "properties": {
+   "pu_id":"B00000025461",
+   "practice_name":"Hastings Internal Family Medicine PLC",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"225 S M37 Hwy",
+   "address_line_2":"Suite 1",
+   "city":"Hastings",
+   "state":"MI",
+   "zip_code":49058,
+   "county":"barry"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.428325,42.247422 ]
+   },
+   "properties": {
+   "pu_id":"B00000028399",
+   "practice_name":"Henry Ford Allegiance Endocrinology",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"813 W. Michigan Ave",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49201,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.775931,42.265534 ]
+   },
+   "properties": {
+   "pu_id":"B00000002442",
+   "practice_name":"Henry Ford Allegiance Family Medicine - Albion",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"27931 C Drive North",
+   "address_line_2":"",
+   "city":"Albion",
+   "state":"MI",
+   "zip_code":49224,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.246031,42.097908 ]
+   },
+   "properties": {
+   "pu_id":"B00000031491",
+   "practice_name":"Henry Ford Allegiance Family Medicine - Brooklyn",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"153 Wamplers Lake Road",
+   "address_line_2":"",
+   "city":"Brooklyn",
+   "state":"MI",
+   "zip_code":49230,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.362379,42.255271 ]
+   },
+   "properties": {
+   "pu_id":"B00000027084",
+   "practice_name":"Henry Ford Allegiance Family Medicine - East Michigan",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3235 E. Michigan Avenue",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49202,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.208603,42.251846 ]
+   },
+   "properties": {
+   "pu_id":"B00000003217",
+   "practice_name":"Henry Ford Allegiance Family Medicine - Grass Lake",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"12369 E. Michigan Avenue",
+   "address_line_2":"",
+   "city":"Grass Lake",
+   "state":"MI",
+   "zip_code":49240,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.43926,42.451245 ]
+   },
+   "properties": {
+   "pu_id":"B00000003207",
+   "practice_name":"Henry Ford Allegiance Family Medicine - Leslie",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"130 N. Sherman",
+   "address_line_2":"",
+   "city":"Leslie",
+   "state":"MI",
+   "zip_code":49251,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.246291,43.977883 ]
+   },
+   "properties": {
+   "pu_id":"B00000032227",
+   "practice_name":"Henry Ford Allegiance Family Medicine - Mason",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"810 Hogsback Rd Ste A",
+   "address_line_2":"",
+   "city":"Mason",
+   "state":"MI",
+   "zip_code":48854,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.405061,42.258974 ]
+   },
+   "properties": {
+   "pu_id":"B00000003330",
+   "practice_name":"Henry Ford Allegiance Family Medicine - North St.",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1401 W. North Street",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49202,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.536349,42.208713 ]
+   },
+   "properties": {
+   "pu_id":"B00000002444",
+   "practice_name":"Henry Ford Allegiance Family Medicine - Spring Arbor",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7845 Spring Arbor Rd",
+   "address_line_2":"",
+   "city":"Spring Arbor",
+   "state":"MI",
+   "zip_code":49283,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.452474,42.226603 ]
+   },
+   "properties": {
+   "pu_id":"B00000002445",
+   "practice_name":"Henry Ford Allegiance Family Medicine - Summit Woods",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2585 Spring Arbor Road",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49203,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.172141,42.420279 ]
+   },
+   "properties": {
+   "pu_id":"B00000002446",
+   "practice_name":"Henry Ford Allegiance Family Medicine - Townsend",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"400 Hinkley Blvd.",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49203,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.425589,42.241647 ]
+   },
+   "properties": {
+   "pu_id":"B00000000336",
+   "practice_name":"Henry Ford Allegiance Internal Medicine - Jackson",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"100 E. Michigan Avenue",
+   "address_line_2":"Suite 102",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49201,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.827469,42.674508 ]
+   },
+   "properties": {
+   "pu_id":"B00000004160",
+   "practice_name":"Henry Ford Macomb Family Medicine - Chesterfield",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"30795 23 Mile Rd.",
+   "address_line_2":"Suite 205",
+   "city":"Chesterfield",
+   "state":"MI",
+   "zip_code":48047,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.922012,42.554237 ]
+   },
+   "properties": {
+   "pu_id":"B00000003693",
+   "practice_name":"Henry Ford Macomb Family Medicine - Fraser",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"15717 15 Mile Rd.",
+   "address_line_2":"",
+   "city":"Clinton Twp",
+   "state":"MI",
+   "zip_code":48035,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.012987,42.802808 ]
+   },
+   "properties": {
+   "pu_id":"B00000004186",
+   "practice_name":"Henry Ford Macomb Family Medicine - Orchard View",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"12150 30 Mile Road",
+   "address_line_2":"Ste 201",
+   "city":"Washingtn Twp",
+   "state":"MI",
+   "zip_code":48095,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.934824,42.584852 ]
+   },
+   "properties": {
+   "pu_id":"B00000010146",
+   "practice_name":"Henry Ford Macomb Family Medicine - Seville",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"15400 19 Mile Rd.",
+   "address_line_2":"Suite 150",
+   "city":"Clinton Twp",
+   "state":"MI",
+   "zip_code":48038,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.337943,43.601077 ]
+   },
+   "properties": {
+   "pu_id":"B00000004176",
+   "practice_name":"Henry Ford Macomb Family Medicine Shelby North",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"50505 Schoenherr",
+   "address_line_2":"Suite 240",
+   "city":"Shelby Township",
+   "state":"MI",
+   "zip_code":48315,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.994467,42.552088 ]
+   },
+   "properties": {
+   "pu_id":"B00000004195",
+   "practice_name":"Henry Ford Macomb Internal Medicine",
+   "po":"GMP Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"13801 15 Mile Rd",
+   "address_line_2":"",
+   "city":"Sterling Heights",
+   "state":"MI",
+   "zip_code":48312,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.214404,42.256156 ]
+   },
+   "properties": {
+   "pu_id":"G00000008892",
+   "practice_name":"Henry Ford Primary Care Allen Park",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7226 Allen Rd",
+   "address_line_2":"",
+   "city":"Allen Park",
+   "state":"MI",
+   "zip_code":48101,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.508637,42.385047 ]
+   },
+   "properties": {
+   "pu_id":"B00000000888",
+   "practice_name":"HFMC - Beck Road",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"14300 Beck Road",
+   "address_line_2":"",
+   "city":"Plymouth",
+   "state":"MI",
+   "zip_code":48170,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.4373,42.496825 ]
+   },
+   "properties": {
+   "pu_id":"B00000003694",
+   "practice_name":"HFMC - Columbus Center",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"39450 W. 12 Mile Rd",
+   "address_line_2":"",
+   "city":"Novi",
+   "state":"MI",
+   "zip_code":48377,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.448889,42.591599 ]
+   },
+   "properties": {
+   "pu_id":"B00000025102",
+   "practice_name":"HFMC - Commerce Road",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8391 Commerce Road",
+   "address_line_2":"",
+   "city":"Commerce Township",
+   "state":"MI",
+   "zip_code":48382,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.214193,42.420251 ]
+   },
+   "properties": {
+   "pu_id":"B00000003419",
+   "practice_name":"HFMC - Detroit  Northwest",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7800 W. Outer Drive",
+   "address_line_2":"",
+   "city":"Detroit",
+   "state":"MI",
+   "zip_code":48235,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.084451,42.366409 ]
+   },
+   "properties": {
+   "pu_id":"B00000003420",
+   "practice_name":"HFMC - Detroit Internal Medicine",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2799 West Grand Blvd., K-15",
+   "address_line_2":"",
+   "city":"Detroit",
+   "state":"MI",
+   "zip_code":48202,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.889843,42.474984 ]
+   },
+   "properties": {
+   "pu_id":"B00000000878",
+   "practice_name":"HFMC - East Jefferson",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"24725 E. Jefferson Ave.",
+   "address_line_2":"",
+   "city":"Saint Clair Shores",
+   "state":"MI",
+   "zip_code":48080,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.381498,42.541707 ]
+   },
+   "properties": {
+   "pu_id":"B00000003422",
+   "practice_name":"HFMC - Farmington Road",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6530 Farmington Road",
+   "address_line_2":"",
+   "city":"W Bloomfield",
+   "state":"MI",
+   "zip_code":48322,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.22232,42.327769 ]
+   },
+   "properties": {
+   "pu_id":"B00000025103",
+   "practice_name":"HFMC - Ford Road",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5500 Auto Club Drive",
+   "address_line_2":"",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48126,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.012874,42.341668 ]
+   },
+   "properties": {
+   "pu_id":"B00000000883",
+   "practice_name":"HFMC - Harbortown",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3370 East Jefferson",
+   "address_line_2":"",
+   "city":"Detroit",
+   "state":"MI",
+   "zip_code":48207,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.004186,42.626484 ]
+   },
+   "properties": {
+   "pu_id":"B00000000884",
+   "practice_name":"HFMC - Lakeside",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"14500 Hall Road",
+   "address_line_2":"",
+   "city":"Sterling Hts",
+   "state":"MI",
+   "zip_code":48313,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.330256,42.384484 ]
+   },
+   "properties": {
+   "pu_id":"B00000000885",
+   "practice_name":"HFMC - Livonia",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"29200 Schoolcraft Road",
+   "address_line_2":"",
+   "city":"Livonia",
+   "state":"MI",
+   "zip_code":48150,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.1562,42.4872 ]
+   },
+   "properties": {
+   "pu_id":"B00000000889",
+   "practice_name":"HFMC - Royal Oak",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"110 E. 2nd Street",
+   "address_line_2":"",
+   "city":"Royal Oak",
+   "state":"MI",
+   "zip_code":48067,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.073132,42.54936 ]
+   },
+   "properties": {
+   "pu_id":"B00000000892",
+   "practice_name":"HFMC - Sterling Heights",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3500 Fifteen Mile Road",
+   "address_line_2":"",
+   "city":"Sterling Hts",
+   "state":"MI",
+   "zip_code":48310,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.273262,42.236665 ]
+   },
+   "properties": {
+   "pu_id":"B00000000893",
+   "practice_name":"HFMC - Taylor",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"24555 Haig Road",
+   "address_line_2":"",
+   "city":"Taylor",
+   "state":"MI",
+   "zip_code":48180,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.14872,42.560148 ]
+   },
+   "properties": {
+   "pu_id":"B00000000894",
+   "practice_name":"HFMC - Troy",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2825 Livernois",
+   "address_line_2":"",
+   "city":"Troy",
+   "state":"MI",
+   "zip_code":48083,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.022039,42.52219 ]
+   },
+   "properties": {
+   "pu_id":"B00000000895",
+   "practice_name":"HFMC - Warren Chicago Road",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8600 Chicago Rd. South",
+   "address_line_2":"",
+   "city":"Warren",
+   "state":"MI",
+   "zip_code":48093,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.225589,42.144625 ]
+   },
+   "properties": {
+   "pu_id":"B00000000897",
+   "practice_name":"HFMC - Woodhaven",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"22505 Allen Rd.",
+   "address_line_2":"",
+   "city":"Trenton",
+   "state":"MI",
+   "zip_code":48183,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.300596,42.611908 ]
+   },
+   "properties": {
+   "pu_id":"B00000033132",
+   "practice_name":"HFMC Bloomfield",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1961 S. Telegraph",
+   "address_line_2":"",
+   "city":"Bloomfield Hills",
+   "state":"MI",
+   "zip_code":48302,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.479281,42.358502 ]
+   },
+   "properties": {
+   "pu_id":"B00000033970",
+   "practice_name":"HFMC Plymouth",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"40777 Ann Arbor Road",
+   "address_line_2":"",
+   "city":"Plymouth",
+   "state":"MI",
+   "zip_code":48170,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -88.952839,38.995878 ]
+   },
+   "properties": {
+   "pu_id":"B00000000425",
+   "practice_name":"HFW Primary Care Brownstown",
+   "po":"Henry Ford Medical Group",
+   "practice_type_fk":"PCP",
+   "address_line_1":"23050 West Rd. Ste. 260",
+   "address_line_2":"",
+   "city":"Brownstown",
+   "state":"MI",
+   "zip_code":48183,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.183029,43.602863 ]
+   },
+   "properties": {
+   "pu_id":"B00000028356",
+   "practice_name":"Hills and Dales - Cass City Family Practice",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6190 Hospital Drive Suite 106",
+   "address_line_2":"",
+   "city":"Cass City",
+   "state":"MI",
+   "zip_code":48726,
+   "county":"tuscola"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.19189,43.412866 ]
+   },
+   "properties": {
+   "pu_id":"B00000028366",
+   "practice_name":"Hills and Dales - Kingston Family Practice",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5854 State St",
+   "address_line_2":"",
+   "city":"Kingston",
+   "state":"MI",
+   "zip_code":48741,
+   "county":"tuscola"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.108927,42.781661 ]
+   },
+   "properties": {
+   "pu_id":"B00000027265",
+   "practice_name":"Holland Community Health Center",
+   "po":"Holland PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"336 South River Avenue",
+   "address_line_2":"",
+   "city":"Holland",
+   "state":"MI",
+   "zip_code":49423,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -96.188642,44.091635 ]
+   },
+   "properties": {
+   "pu_id":"B00000034011",
+   "practice_name":"Holland Hospital Endocrinology",
+   "po":"Holland PHO",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"3235 N Wellness Drive",
+   "address_line_2":"Suite 120A",
+   "city":"Holland",
+   "state":"MI",
+   "zip_code":49424,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.116482,42.75875 ]
+   },
+   "properties": {
+   "pu_id":"B00000001979",
+   "practice_name":"Holland Hospital Family Medicine - South Washington",
+   "po":"Holland PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"904 South Washington Avenue",
+   "address_line_2":"210",
+   "city":"Holland",
+   "state":"MI",
+   "zip_code":49423,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.988031,42.811054 ]
+   },
+   "properties": {
+   "pu_id":"B00000010194",
+   "practice_name":"Holland Hospital Family Medicine - Zeeland",
+   "po":"Holland PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8300 Westpark Way",
+   "address_line_2":"",
+   "city":"Zeeland",
+   "state":"MI",
+   "zip_code":49464,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.109083,42.787602 ]
+   },
+   "properties": {
+   "pu_id":"B00000003232",
+   "practice_name":"Holland Hospital Internal Medicine - North",
+   "po":"Holland PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3235 North Wellness Drive",
+   "address_line_2":"Bldg A - Suite 120B",
+   "city":"Holland",
+   "state":"MI",
+   "zip_code":49424,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.988031,42.811054 ]
+   },
+   "properties": {
+   "pu_id":"B00000033437",
+   "practice_name":"Holland Hospital Internal Medicine - Zeeland",
+   "po":"Holland PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8300 Westpark Way",
+   "address_line_2":"",
+   "city":"Zeeland",
+   "state":"MI",
+   "zip_code":49464,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -92.524681,36.943318 ]
+   },
+   "properties": {
+   "pu_id":"B00000033742",
+   "practice_name":"Holland Hospital Primary Care - Saugatuck",
+   "po":"Holland PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6490 Blue Star Hwy",
+   "address_line_2":"",
+   "city":"Saugatuck",
+   "state":"MI",
+   "zip_code":49453,
+   "county":"allegan"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.967024,43.476192 ]
+   },
+   "properties": {
+   "pu_id":"B00000002706",
+   "practice_name":"Ibtihaj Rajoulh, MD, FACP-AC",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4757 McLeod Dr E",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48604,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.48683,42.297842 ]
+   },
+   "properties": {
+   "pu_id":"B00000027077",
+   "practice_name":"IHA Canton Primary Care",
+   "po":"IHA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1600 S. Canton Center Rd",
+   "address_line_2":"Suite 1200",
+   "city":"Canton",
+   "state":"MI",
+   "zip_code":48188,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.019312,42.314221 ]
+   },
+   "properties": {
+   "pu_id":"G00017749000",
+   "practice_name":"IHA Chelsea Primary Care",
+   "po":"IHA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"128 Van Buren St.",
+   "address_line_2":"",
+   "city":"Chelsea",
+   "state":"MI",
+   "zip_code":48118,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.965639,42.05946 ]
+   },
+   "properties": {
+   "pu_id":"G00017857000",
+   "practice_name":"IHA Clinton Primary Care",
+   "po":"IHA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"11775 Tecumseh-Clinton Hwy",
+   "address_line_2":"",
+   "city":"Clinton",
+   "state":"MI",
+   "zip_code":49236,
+   "county":"lenawee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.678307,42.312179 ]
+   },
+   "properties": {
+   "pu_id":"G00000007858",
+   "practice_name":"IHA Dominos Farms Primary Care",
+   "po":"IHA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4200 Whitehall Dr.",
+   "address_line_2":"Suite 130",
+   "city":"Ann Arbor",
+   "state":"MI",
+   "zip_code":48105,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.678315,42.097711 ]
+   },
+   "properties": {
+   "pu_id":"G00018041000",
+   "practice_name":"IHA Milan Primary Care",
+   "po":"IHA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"870 E. Arkona Rd.",
+   "address_line_2":"Suite 100",
+   "city":"Milan",
+   "state":"MI",
+   "zip_code":48160,
+   "county":"monroe"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.146832,43.004036 ]
+   },
+   "properties": {
+   "pu_id":"B00000004266",
+   "practice_name":"IMLAY CITY FAMILY PRACTICE",
+   "po":"Lake Huron PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6672 Newark Rd",
+   "address_line_2":"",
+   "city":"Imlay City",
+   "state":"MI",
+   "zip_code":48444,
+   "county":"lapeer"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.205978,42.590181 ]
+   },
+   "properties": {
+   "pu_id":"B00000000958",
+   "practice_name":"Internal Medicine and Pediatrics of Bloomfield PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1109 W Long Lake Rd",
+   "address_line_2":"",
+   "city":"Bloomfield Township",
+   "state":"MI",
+   "zip_code":48302,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.437934,42.557178 ]
+   },
+   "properties": {
+   "pu_id":"B00000000956",
+   "practice_name":"Internal Medicine and Primary Care Specialists",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2300 Haggerty Road",
+   "address_line_2":"Suite 1010",
+   "city":"W Bloomfield",
+   "state":"MI",
+   "zip_code":48323,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.207665,42.213157 ]
+   },
+   "properties": {
+   "pu_id":"B00000000960",
+   "practice_name":"Internal Medicine Associates of Michigan",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"15105 Northline Road",
+   "address_line_2":"",
+   "city":"Southgate",
+   "state":"MI",
+   "zip_code":48195,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.667864,42.963241 ]
+   },
+   "properties": {
+   "pu_id":"G00000003931",
+   "practice_name":"Internal Medicine of West Michigan PLLC",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3200 Eagle Park Dr., NE",
+   "address_line_2":"Suite 102",
+   "city":"Grand Rapids",
+   "state":"MI",
+   "zip_code":49525,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.754019,43.597918 ]
+   },
+   "properties": {
+   "pu_id":"B00000027127",
+   "practice_name":"Isabella Citizens For Health, Inc.",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2970 Health Parkway",
+   "address_line_2":"",
+   "city":"Mount Pleasant",
+   "state":"MI",
+   "zip_code":48858,
+   "county":"isabella"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.211375,42.250502 ]
+   },
+   "properties": {
+   "pu_id":"B00000000994",
+   "practice_name":"Jalal Thwainey MD PC",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7106 Park Ave.",
+   "address_line_2":"",
+   "city":"Allen Park",
+   "state":"MI",
+   "zip_code":48101,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.426012,42.659377 ]
+   },
+   "properties": {
+   "pu_id":"B00000001001",
+   "practice_name":"James A. Gibson , MD",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5784 Highland Rd.",
+   "address_line_2":"",
+   "city":"Waterford",
+   "state":"MI",
+   "zip_code":48327,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.239661,42.784475 ]
+   },
+   "properties": {
+   "pu_id":"B00000000995",
+   "practice_name":"James Bauer MD PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1251 S Lapeer Rd",
+   "address_line_2":"Ste 202",
+   "city":"Lake Orion",
+   "state":"MI",
+   "zip_code":48360,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.203801,42.26682 ]
+   },
+   "properties": {
+   "pu_id":"B00000001026",
+   "practice_name":"Jeffrey Potts, MD",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1111 Euclid Ave",
+   "address_line_2":"",
+   "city":"Bay City",
+   "state":"MI",
+   "zip_code":48706,
+   "county":"bay"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.35271,42.36837 ]
+   },
+   "properties": {
+   "pu_id":"B00000033625",
+   "practice_name":"Joel Wellness Clinic",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"15144 Levan Rd. Suite 44",
+   "address_line_2":"",
+   "city":"Livonia",
+   "state":"MI",
+   "zip_code":48154,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.394375,41.916135 ]
+   },
+   "properties": {
+   "pu_id":"B00000002888",
+   "practice_name":"John J Kalenkiewicz, MD",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"730 N Macomb St Ste 400",
+   "address_line_2":"",
+   "city":"Monroe",
+   "state":"MI",
+   "zip_code":48162,
+   "county":"monroe"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.359794,41.861241 ]
+   },
+   "properties": {
+   "pu_id":"B00000002372",
+   "practice_name":"Jonna Schmidt, MD",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"456 Cross St",
+   "address_line_2":"",
+   "city":"Hudson",
+   "state":"MI",
+   "zip_code":49247,
+   "county":"lenawee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.247095,42.302981 ]
+   },
+   "properties": {
+   "pu_id":"B00000031174",
+   "practice_name":"Juan A Estigarribia, M.D., P.C.",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"23550 Park Street",
+   "address_line_2":"Suite 201",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48124,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.184389,44.731275 ]
+   },
+   "properties": {
+   "pu_id":"B00000011801",
+   "practice_name":"Kalkaska Medical Associates",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"419 South  Coral Street",
+   "address_line_2":"",
+   "city":"Kalkaska",
+   "state":"MI",
+   "zip_code":49646,
+   "county":"kalkaska"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000034353",
+   "practice_name":"Kalkaska Medical Associates - Mancelona Campus",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"419 W. State Street",
+   "address_line_2":"",
+   "city":"Mancelona",
+   "state":"MI",
+   "zip_code":49659,
+   "county":"antrim"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.005673,43.415243 ]
+   },
+   "properties": {
+   "pu_id":"B00000002748",
+   "practice_name":"Karu Medical Associates",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5685 Gratiot Rd",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48638,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.941721,42.621939 ]
+   },
+   "properties": {
+   "pu_id":"B00000010354",
+   "practice_name":"Kathleen Knapp DO, PC",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1320 Byron Road",
+   "address_line_2":"",
+   "city":"Howell",
+   "state":"MI",
+   "zip_code":48843,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.934824,42.584852 ]
+   },
+   "properties": {
+   "pu_id":"B00000002189",
+   "practice_name":"Keith C McKenzie MD PLLC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"15501 Metropolitan Pkwy",
+   "address_line_2":"Ste 110",
+   "city":"Clinton Township",
+   "state":"MI",
+   "zip_code":48036,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.381078,42.36815 ]
+   },
+   "properties": {
+   "pu_id":"B00000001083",
+   "practice_name":"Keith M Tobin DO PC",
+   "po":"Olympia Medical LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"28701 Plymouth Rd",
+   "address_line_2":"",
+   "city":"Livonia",
+   "state":"MI",
+   "zip_code":48150,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.744293,42.988823 ]
+   },
+   "properties": {
+   "pu_id":"B00000004279",
+   "practice_name":"KIDNEY DISEASE and HYPERTENSION CONSULTANTS, P.C.",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"2486 Nerredia Dr Ste E",
+   "address_line_2":"",
+   "city":"Flint",
+   "state":"MI",
+   "zip_code":48532,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.690021,43.016169 ]
+   },
+   "properties": {
+   "pu_id":"B00000020363",
+   "practice_name":"Kidney Disease and Hypertension, PC",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"2387 S Linden Rd Ste A",
+   "address_line_2":"",
+   "city":"Flint",
+   "state":"MI",
+   "zip_code":48532,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000031085",
+   "practice_name":"Kidney Hypertension Specialist PLLC",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"900 E. Michigan Avenue",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49201,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.14993,42.605589 ]
+   },
+   "properties": {
+   "pu_id":"B00000004310",
+   "practice_name":"Klein MD Hug MD Sabin MD Maddens MD Khogali-Jakary DO PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3290 W Big Beaver Rd",
+   "address_line_2":"Ste 420",
+   "city":"Troy",
+   "state":"MI",
+   "zip_code":48084,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.516425,43.125403 ]
+   },
+   "properties": {
+   "pu_id":"B00000000620",
+   "practice_name":"Lake Huron Medical Group-Endocrinology",
+   "po":"Lake Huron PHO",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"4190 24th Ave",
+   "address_line_2":"Suite 201",
+   "city":"Burtchville",
+   "state":"MI",
+   "zip_code":48059,
+   "county":"saint clair"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.440466,42.981588 ]
+   },
+   "properties": {
+   "pu_id":"B00000004101",
+   "practice_name":"Lake Huron Medical Group-Port Huron",
+   "po":"Lake Huron PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2603 Electric Ave",
+   "address_line_2":"Suite B",
+   "city":"Port Huron",
+   "state":"MI",
+   "zip_code":48060,
+   "county":"saint clair"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.535673,41.903196 ]
+   },
+   "properties": {
+   "pu_id":"B00000028636",
+   "practice_name":"Lake Michigan Nephrology",
+   "po":"Lakeland Care Inc",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"3800 Hollywood Rd",
+   "address_line_2":"Suite 101",
+   "city":"Saint Joseph",
+   "state":"MI",
+   "zip_code":49085,
+   "county":"berrien"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.077312,42.810967 ]
+   },
+   "properties": {
+   "pu_id":"B00000001111",
+   "practice_name":"Lakeshore Internal Medicine and Pediatric Associates, PC",
+   "po":"Holland PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"437 North 120th Avenue",
+   "address_line_2":"",
+   "city":"Holland",
+   "state":"MI",
+   "zip_code":49424,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.077916,42.803322 ]
+   },
+   "properties": {
+   "pu_id":"B00000003468",
+   "practice_name":"Lakewood Family Medicine, PLC",
+   "po":"Holland PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"382 North 120th Avenue",
+   "address_line_2":"",
+   "city":"Holland",
+   "state":"MI",
+   "zip_code":49424,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.771614,42.523707 ]
+   },
+   "properties": {
+   "pu_id":"B00000031887",
+   "practice_name":"Lee Internal Medicine Associates, PLLC",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"10415 East Grand River Ave",
+   "address_line_2":"STE 100",
+   "city":"Brighton",
+   "state":"MI",
+   "zip_code":48116,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.9895,42.545864 ]
+   },
+   "properties": {
+   "pu_id":"B00000026543",
+   "practice_name":"Legacy Family Medicine, PC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"35429 Schoenherr Rd",
+   "address_line_2":"",
+   "city":"Sterling Hts",
+   "state":"MI",
+   "zip_code":48312,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.35271,42.36837 ]
+   },
+   "properties": {
+   "pu_id":"B00000001164",
+   "practice_name":"Levan Internists, PC",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"15130 Levan Road",
+   "address_line_2":"Suite 30",
+   "city":"Livonia",
+   "state":"MI",
+   "zip_code":48154,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.085425,42.499968 ]
+   },
+   "properties": {
+   "pu_id":"B00000001165",
+   "practice_name":"LIFETIME FAMILY CARE PLLC A DIVISION OF MICHIGAN HEALTHCARE PROFESSIONALS",
+   "po":"Medical Network One",
+   "practice_type_fk":"PCP",
+   "address_line_1":"26393 Dequindre Rd",
+   "address_line_2":"",
+   "city":"Madison Heights",
+   "state":"MI",
+   "zip_code":48071,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.903352,45.422114 ]
+   },
+   "properties": {
+   "pu_id":"B00000026400",
+   "practice_name":"Little Traverse Primary Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8881 M-119",
+   "address_line_2":"",
+   "city":"Wequetonsing",
+   "state":"MI",
+   "zip_code":49740,
+   "county":"emmet"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.425589,42.241647 ]
+   },
+   "properties": {
+   "pu_id":"B00000001178",
+   "practice_name":"Lorna G. Pinson, MD, PLLC",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"744 W. Michigan",
+   "address_line_2":"Suite 101",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49201,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.41522,42.234322 ]
+   },
+   "properties": {
+   "pu_id":"B00000001186",
+   "practice_name":"Lynn C. VanWagnen, MD, PC",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1310 Greenwood Avenue",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49203,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.419669,42.751242 ]
+   },
+   "properties": {
+   "pu_id":"B00000001191",
+   "practice_name":"M-15 Family Medical Center PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7736 Ortonville Rd",
+   "address_line_2":"Ste A",
+   "city":"Clarkston",
+   "state":"MI",
+   "zip_code":48348,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.245488,42.583645 ]
+   },
+   "properties": {
+   "pu_id":"B00000000387",
+   "practice_name":"Maan Ekkah MD PC - Bloomfield Hills",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"PCP",
+   "address_line_1":"42557 Woodward Ave.",
+   "address_line_2":"Ste. 130",
+   "city":"Bloomfield Hills",
+   "state":"MI",
+   "zip_code":48302,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.180054,42.140655 ]
+   },
+   "properties": {
+   "pu_id":"B00000000435",
+   "practice_name":"Main Street Physicians PC",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"25000 Hall Road",
+   "address_line_2":"Suite 1",
+   "city":"Trenton",
+   "state":"MI",
+   "zip_code":48183,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.269103,41.942378 ]
+   },
+   "properties": {
+   "pu_id":"B00000033134",
+   "practice_name":"March Medical Associates PC",
+   "po":"Medical Network One",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2252 N Monroe",
+   "address_line_2":"",
+   "city":"Monroe",
+   "state":"MI",
+   "zip_code":48162,
+   "county":"monroe"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.910634,42.45967 ]
+   },
+   "properties": {
+   "pu_id":"B00000032614",
+   "practice_name":"Mark Alrais, MD PC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"21600 Harper Ave",
+   "address_line_2":"Suite 100",
+   "city":"Saint Clair Shores",
+   "state":"MI",
+   "zip_code":48080,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.180054,42.140655 ]
+   },
+   "properties": {
+   "pu_id":"B00000001236",
+   "practice_name":"Mark Sawka MD",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"25000 Hall Road",
+   "address_line_2":"Suite 1",
+   "city":"Trenton",
+   "state":"MI",
+   "zip_code":48183,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.472168,42.732031 ]
+   },
+   "properties": {
+   "pu_id":"B00000001274",
+   "practice_name":"MED-SPEC Endocrinology/Infectious Disease",
+   "po":"MSU Health Care, Inc.",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"4650 S. Hagadorn",
+   "address_line_2":"Suite 100",
+   "city":"East Lansing",
+   "state":"MI",
+   "zip_code":48823,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.46132,42.71619 ]
+   },
+   "properties": {
+   "pu_id":"B00000001273",
+   "practice_name":"MED - Internal Medicine",
+   "po":"MSU Health Care, Inc.",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4650 S. Hagadron",
+   "address_line_2":"Suite 100",
+   "city":"East Lansing",
+   "state":"MI",
+   "zip_code":48823,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.886518,42.592053 ]
+   },
+   "properties": {
+   "pu_id":"B00000010225",
+   "practice_name":"Medical Office of John Vassallo, MD",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3399 E. Grand River",
+   "address_line_2":"Suite 204",
+   "city":"Howell",
+   "state":"MI",
+   "zip_code":48843,
+   "county":"livingston"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.176315,42.32226 ]
+   },
+   "properties": {
+   "pu_id":"B00000031534",
+   "practice_name":"Metro Detroit Endocrinology Center",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"5250 Auto Club Dr Suite 200",
+   "address_line_2":"",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48126,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.013397,45.216891 ]
+   },
+   "properties": {
+   "pu_id":"B00000020036",
+   "practice_name":"MHC Boyne Area Medical Center",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"223 N Park St",
+   "address_line_2":"",
+   "city":"Boyne City",
+   "state":"MI",
+   "zip_code":49712,
+   "county":"charlevoix"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.277325,45.313145 ]
+   },
+   "properties": {
+   "pu_id":"B00000028834",
+   "practice_name":"MHC Charlevoix Primary Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"14734 Park Avenue",
+   "address_line_2":"",
+   "city":"Charlevoix",
+   "state":"MI",
+   "zip_code":49720,
+   "county":"charlevoix"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.248933,42.678297 ]
+   },
+   "properties": {
+   "pu_id":"B00000000172",
+   "practice_name":"MHP Auburn Hills Medical Clinic",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3095 E Walton Blvd",
+   "address_line_2":"",
+   "city":"Auburn Hills",
+   "state":"MI",
+   "zip_code":48326,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.245488,42.583645 ]
+   },
+   "properties": {
+   "pu_id":"B00000000388",
+   "practice_name":"MHP CAVA - IMPCP",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"PCP",
+   "address_line_1":"42557 Woodward Ave.",
+   "address_line_2":"Ste. 110",
+   "city":"Bloomfield Hills",
+   "state":"MI",
+   "zip_code":48304,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.41883,42.735863 ]
+   },
+   "properties": {
+   "pu_id":"B00000028808",
+   "practice_name":"MHP Clarkston Medical Group",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5701 Bow Pointe Dr.",
+   "address_line_2":"Ste. 100",
+   "city":"Clarkston",
+   "state":"MI",
+   "zip_code":48346,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.334429,42.515391 ]
+   },
+   "properties": {
+   "pu_id":"B00000029795",
+   "practice_name":"MHP Premier Internists",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"PCP",
+   "address_line_1":"32255 Northwestern Hwy",
+   "address_line_2":"Ste 180",
+   "city":"Farmington Hills",
+   "state":"MI",
+   "zip_code":48334,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.149932,42.658366 ]
+   },
+   "properties": {
+   "pu_id":"B00000030638",
+   "practice_name":"MHP Rochester Hills Medical Group",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"PCP",
+   "address_line_1":"633 E South Blvd",
+   "address_line_2":"Ste. 1200",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.680945,43.024919 ]
+   },
+   "properties": {
+   "pu_id":"B00000001351",
+   "practice_name":"Michigan Health Specialists",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2700 Robert T Longway Blvd Ste B",
+   "address_line_2":"",
+   "city":"Flint",
+   "state":"MI",
+   "zip_code":48503,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.285889,42.62682 ]
+   },
+   "properties": {
+   "pu_id":"B00000004147",
+   "practice_name":"MICHIGAN KIDNEY CONSULTANTS - PONTIAC",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"44200 Woodward Ave.",
+   "address_line_2":"209",
+   "city":"Pontiac",
+   "state":"MI",
+   "zip_code":48341,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.205217,42.463176 ]
+   },
+   "properties": {
+   "pu_id":"B00000004047",
+   "practice_name":"MICHIGAN KIDNEY CONSULTANTS - SOUTHFIELD",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"22250 Providence Drive",
+   "address_line_2":"406",
+   "city":"Southfield",
+   "state":"MI",
+   "zip_code":48075,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.17106,42.589205 ]
+   },
+   "properties": {
+   "pu_id":"B00000004148",
+   "practice_name":"MICHIGAN KIDNEY CONSULTANTS - TROY",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"4600 Investment Dr.",
+   "address_line_2":"290",
+   "city":"Troy",
+   "state":"MI",
+   "zip_code":48098,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.485672,43.671508 ]
+   },
+   "properties": {
+   "pu_id":"B00000032454",
+   "practice_name":"Michigan Primary Care Partners-PCP",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"20095 Gilbert Rd",
+   "address_line_2":"",
+   "city":"Big Rapids",
+   "state":"MI",
+   "zip_code":49307,
+   "county":"mecosta"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.339607,43.539508 ]
+   },
+   "properties": {
+   "pu_id":"B00000010244",
+   "practice_name":"Mid-Michigan Medicine PC",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1070 East Caro Road",
+   "address_line_2":"",
+   "city":"Caro",
+   "state":"MI",
+   "zip_code":48723,
+   "county":"tuscola"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.268428,43.654996 ]
+   },
+   "properties": {
+   "pu_id":"B00000001367",
+   "practice_name":"Midland Family Physicians, PC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"920 W Wackerly St",
+   "address_line_2":"",
+   "city":"Midland",
+   "state":"MI",
+   "zip_code":48640,
+   "county":"midland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.377155,42.485313 ]
+   },
+   "properties": {
+   "pu_id":"B00000002718",
+   "practice_name":"Millennium Affiliated Physicians",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"32255 Northwestern Highway",
+   "address_line_2":"Suite 130",
+   "city":"Farmington Hls",
+   "state":"MI",
+   "zip_code":48334,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.714637,44.661517 ]
+   },
+   "properties": {
+   "pu_id":"B00000033218",
+   "practice_name":"Milltown Clinic",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1200 West Down River Road",
+   "address_line_2":"",
+   "city":"Grayling",
+   "state":"MI",
+   "zip_code":49738,
+   "county":"crawford"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.243966,42.306124 ]
+   },
+   "properties": {
+   "pu_id":"B00000031806",
+   "practice_name":"Mohammad Saleh MD PC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"1637 Monroe Street",
+   "address_line_2":"",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48124,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.394375,41.916135 ]
+   },
+   "properties": {
+   "pu_id":"B00000020196",
+   "practice_name":"Monroe Health Center",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1085 North Macomb Street",
+   "address_line_2":"",
+   "city":"Monroe",
+   "state":"MI",
+   "zip_code":48162,
+   "county":"monroe"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.640568,44.759218 ]
+   },
+   "properties": {
+   "pu_id":"B00000027179",
+   "practice_name":"Munson Family Practice Center",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1400 Medical Campus Dr.",
+   "address_line_2":"",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49684,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.403695,44.222556 ]
+   },
+   "properties": {
+   "pu_id":"B00000027964",
+   "practice_name":"Munson Healthcare Cadillac Primary Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7985 Mackinaw Trail",
+   "address_line_2":"",
+   "city":"Cadillac",
+   "state":"MI",
+   "zip_code":49601,
+   "county":"wexford"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000034355",
+   "practice_name":"Munson Healthcare Cedarwoods Internal and Geriatric Medicine",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5041 N Royal Dr",
+   "address_line_2":"",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49684,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000034354",
+   "practice_name":"Munson Healthcare Elmwood Primary Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"921 West Front St",
+   "address_line_2":"",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49684,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.242388,44.636832 ]
+   },
+   "properties": {
+   "pu_id":"B00000033257",
+   "practice_name":"Munson Healthcare Frankfort Medical Group",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"224 Park Ave",
+   "address_line_2":"",
+   "city":"Frankfort",
+   "state":"MI",
+   "zip_code":49635,
+   "county":"benzie"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.714637,44.661517 ]
+   },
+   "properties": {
+   "pu_id":"B00000025196",
+   "practice_name":"Munson Healthcare Grayling Community Health Center",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1250 E. Michigan Avenue",
+   "address_line_2":"Suite B",
+   "city":"Grayling",
+   "state":"MI",
+   "zip_code":49738,
+   "county":"crawford"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.655085,44.761048 ]
+   },
+   "properties": {
+   "pu_id":"B00000027823",
+   "practice_name":"Munson Healthcare Kidney Hypertension Specialists",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"3537 W. Front St., Ste. A",
+   "address_line_2":"Traverse City",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49684,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 120.797657,14.298372 ]
+   },
+   "properties": {
+   "pu_id":"B00000033427",
+   "practice_name":"Munson Healthcare Manistee Family Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1391 E Parkdale Ave",
+   "address_line_2":"",
+   "city":"Manistee",
+   "state":"MI",
+   "zip_code":49660,
+   "county":"manistee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.275161,44.273335 ]
+   },
+   "properties": {
+   "pu_id":"B00000011849",
+   "practice_name":"Munson Healthcare Manistee Primary Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1400 E. Parkdale Ave",
+   "address_line_2":"Ste 4",
+   "city":"Manistee",
+   "state":"MI",
+   "zip_code":49660,
+   "county":"manistee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000033239",
+   "practice_name":"Munson Healthcare McBain Primary Care",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"100 N. Roland St",
+   "address_line_2":"",
+   "city":"Mc Bain",
+   "state":"MI",
+   "zip_code":49657,
+   "county":"missaukee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000034329",
+   "practice_name":"Munson Healthcare OMH Medical Group - Family Practice",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"829 N. Center Ave, Suite 210",
+   "address_line_2":"",
+   "city":"Gaylord",
+   "state":"MI",
+   "zip_code":49735,
+   "county":"otsego"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.61432,45.406664 ]
+   },
+   "properties": {
+   "pu_id":"B00000027045",
+   "practice_name":"Munson Healthcare OMH Medical Group - Indian River",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3860 S Straits Hwy",
+   "address_line_2":"",
+   "city":"Indian River",
+   "state":"MI",
+   "zip_code":49749,
+   "county":"cheboygan"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.674752,45.027513 ]
+   },
+   "properties": {
+   "pu_id":"B00000004125",
+   "practice_name":"Munson Healthcare OMH Medical Group - Internal Medicine",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"829 N Center Ave Ste 140",
+   "address_line_2":"",
+   "city":"Gaylord",
+   "state":"MI",
+   "zip_code":49735,
+   "county":"otsego"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.305569,44.8839 ]
+   },
+   "properties": {
+   "pu_id":"B00000004126",
+   "practice_name":"Munson Healthcare OMH Medical Group - Lewiston",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3040 Bourne St",
+   "address_line_2":"",
+   "city":"Lewiston",
+   "state":"MI",
+   "zip_code":49756,
+   "county":"montmorency"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.693441,44.299094 ]
+   },
+   "properties": {
+   "pu_id":"B00000025199",
+   "practice_name":"Munson Healthcare Prudenville Community Health Center",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2585 W. Houghton Lake Drive",
+   "address_line_2":"",
+   "city":"Prudenville",
+   "state":"MI",
+   "zip_code":48651,
+   "county":"roscommon"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.596132,44.492347 ]
+   },
+   "properties": {
+   "pu_id":"B00000025200",
+   "practice_name":"Munson Healthcare Roscommon Community Health Center",
+   "po":"Northern Michigan Care Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"234 Lake Street",
+   "address_line_2":"",
+   "city":"Roscommon",
+   "state":"MI",
+   "zip_code":48653,
+   "county":"roscommon"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.384082,43.634525 ]
+   },
+   "properties": {
+   "pu_id":"B00000002834",
+   "practice_name":"MyMichigan Health Endocrinology - Midland",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"301 West Wackerly Street",
+   "address_line_2":"",
+   "city":"Midland",
+   "state":"MI",
+   "zip_code":48640,
+   "county":"midland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.930678,43.617628 ]
+   },
+   "properties": {
+   "pu_id":"B00000032572",
+   "practice_name":"MyMichigan Health Family Medicine - Bay",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3051 Kiesel Rd",
+   "address_line_2":"",
+   "city":"Bay City",
+   "state":"MI",
+   "zip_code":48706,
+   "county":"bay"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.607923,43.292615 ]
+   },
+   "properties": {
+   "pu_id":"B00000002630",
+   "practice_name":"MyMichigan Health Family Medicine - Ithaca",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"121 N. Pine River Street",
+   "address_line_2":"",
+   "city":"Ithaca",
+   "state":"MI",
+   "zip_code":48847,
+   "county":"gratiot"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.694733,43.524475 ]
+   },
+   "properties": {
+   "pu_id":"B00000032952",
+   "practice_name":"MyMichigan Health Family Medicine - Shepherd",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"364 W. Wright St.",
+   "address_line_2":"",
+   "city":"Shepherd",
+   "state":"MI",
+   "zip_code":48883,
+   "county":"isabella"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.384082,43.634525 ]
+   },
+   "properties": {
+   "pu_id":"B00000033309",
+   "practice_name":"MyMichigan Health Family Medicine - Wackerly",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"555 W Wackerly St Ste 1600",
+   "address_line_2":"",
+   "city":"Midland",
+   "state":"MI",
+   "zip_code":48640,
+   "county":"midland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.66051,43.39027 ]
+   },
+   "properties": {
+   "pu_id":"B00000003110",
+   "practice_name":"MyMichigan Health Family Practice Center - Alma",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"330 E. Warwick Drive",
+   "address_line_2":"",
+   "city":"Alma",
+   "state":"MI",
+   "zip_code":48801,
+   "county":"gratiot"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.808151,44.035161 ]
+   },
+   "properties": {
+   "pu_id":"B00000027155",
+   "practice_name":"MyMichigan Health Family/Internal Medicine - Harrison",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"815 N. Clare Avenue",
+   "address_line_2":"",
+   "city":"Harrison",
+   "state":"MI",
+   "zip_code":48625,
+   "county":"clare"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.76175,43.611844 ]
+   },
+   "properties": {
+   "pu_id":"B00000027175",
+   "practice_name":"MyMichigan Health Family/Internal Medicine - Mt. Pleasant",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4851 East Pickard Street",
+   "address_line_2":"",
+   "city":"Mt Pleasant",
+   "state":"MI",
+   "zip_code":48858,
+   "county":"isabella"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.664385,43.391518 ]
+   },
+   "properties": {
+   "pu_id":"B00000026021",
+   "practice_name":"MyMichigan Health Internal Medicine - Alma",
+   "po":"MidMichigan Collaborative Care Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"200 E. Warwick Drive",
+   "address_line_2":"",
+   "city":"Alma",
+   "state":"MI",
+   "zip_code":48801,
+   "county":"gratiot"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.690021,43.016169 ]
+   },
+   "properties": {
+   "pu_id":"B00000004307",
+   "practice_name":"Nephrology and Hypertension",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"G-3404 Miller Rd",
+   "address_line_2":"",
+   "city":"Flint",
+   "state":"MI",
+   "zip_code":48507,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.649863,42.259863 ]
+   },
+   "properties": {
+   "pu_id":"B00000002910",
+   "practice_name":"Nephrology Associates of Michigan, PC",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"5333  McAuley Dr",
+   "address_line_2":"#4003",
+   "city":"Ypsilanti",
+   "state":"MI",
+   "zip_code":48197,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.04684,43.332688 ]
+   },
+   "properties": {
+   "pu_id":"B00000002914",
+   "practice_name":"Nikolai Kinachtchouk, MD, Lioudmila Kinachtchouk, MD, PLC",
+   "po":"St. Mary's PHO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4705 Towne Centre Rd Ste 102",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48604,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.079844,43.326037 ]
+   },
+   "properties": {
+   "pu_id":"B00000004044",
+   "practice_name":"Nitin KG Golechha MD, PC",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2734 Main St",
+   "address_line_2":"",
+   "city":"Marlette",
+   "state":"MI",
+   "zip_code":48453,
+   "county":"sanilac"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.616241,42.6235 ]
+   },
+   "properties": {
+   "pu_id":"B00000011354",
+   "practice_name":"North Valley Internal Medicine",
+   "po":"CCA Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2330 S. Milford Rd",
+   "address_line_2":"",
+   "city":"Highland",
+   "state":"MI",
+   "zip_code":48357,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.146317,42.533368 ]
+   },
+   "properties": {
+   "pu_id":"G00000006858",
+   "practice_name":"North Woodward Internal Medicine Associates PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"555 W 14 Mile Rd",
+   "address_line_2":"Ste 100",
+   "city":"Clawson",
+   "state":"MI",
+   "zip_code":48017,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.697404,44.5003 ]
+   },
+   "properties": {
+   "pu_id":"B00000011826",
+   "practice_name":"Northern Pines Health Center",
+   "po":"Novello Physicians Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"11293 N M37",
+   "address_line_2":"Suite A",
+   "city":"Buckley",
+   "state":"MI",
+   "zip_code":49620,
+   "county":"wexford"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.377155,42.485313 ]
+   },
+   "properties": {
+   "pu_id":"B00000002927",
+   "practice_name":"Northwest Internal Medicine",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"32255 Northwestern Highway",
+   "address_line_2":"Suite 130",
+   "city":"Farmington Hills",
+   "state":"MI",
+   "zip_code":48334,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.750026,42.25008 ]
+   },
+   "properties": {
+   "pu_id":"B00000011459",
+   "practice_name":"Oaklawn Medical Group Albion",
+   "po":"Integrated Health Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"302 North Monroe St.",
+   "address_line_2":"",
+   "city":"Albion",
+   "state":"MI",
+   "zip_code":49224,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.155828,42.281045 ]
+   },
+   "properties": {
+   "pu_id":"B00000011460",
+   "practice_name":"Oaklawn Medical Group Beadle Lake",
+   "po":"Integrated Health Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"14231 Beadle Lake Road",
+   "address_line_2":"",
+   "city":"Battle Creek",
+   "state":"MI",
+   "zip_code":49014,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.962871,42.289567 ]
+   },
+   "properties": {
+   "pu_id":"B00000001244",
+   "practice_name":"Oaklawn Medical Group Marshall Internal and Family Medicine",
+   "po":"Integrated Health Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"720 Old US Hwy 27 North",
+   "address_line_2":"",
+   "city":"Marshall",
+   "state":"MI",
+   "zip_code":49068,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.957135,42.27302 ]
+   },
+   "properties": {
+   "pu_id":"B00000001234",
+   "practice_name":"Oaklawn Medical Group Marshall Primary Care",
+   "po":"Integrated Health Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"215 E Mansion Str",
+   "address_line_2":"Suite 1E",
+   "city":"Marshall",
+   "state":"MI",
+   "zip_code":49068,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.956789,42.273101 ]
+   },
+   "properties": {
+   "pu_id":"B00000000502",
+   "practice_name":"Oaklawn Medical Group Wright Medical Primary Care",
+   "po":"Integrated Health Partners",
+   "practice_type_fk":"PCP",
+   "address_line_1":"215 E. Mansion Street",
+   "address_line_2":"Suite 2F",
+   "city":"Marshall",
+   "state":"MI",
+   "zip_code":49068,
+   "county":"calhoun"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.427526,42.722102 ]
+   },
+   "properties": {
+   "pu_id":"B00000030004",
+   "practice_name":"Orlando Matias DO, PC",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2104 Jolly Rd",
+   "address_line_2":"Suite 290",
+   "city":"Okemos",
+   "state":"MI",
+   "zip_code":48864,
+   "county":"ingham"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.696587,42.244533 ]
+   },
+   "properties": {
+   "pu_id":"B00000002953",
+   "practice_name":"Packard Health",
+   "po":"IHA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3174  Packard Rd",
+   "address_line_2":"",
+   "city":"Ann Arbor",
+   "state":"MI",
+   "zip_code":48108,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.585551,41.729253 ]
+   },
+   "properties": {
+   "pu_id":"B00000004314",
+   "practice_name":"Pamela J Hackl DO PLC",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7443 Jackman Road",
+   "address_line_2":"",
+   "city":"Temperance",
+   "state":"MI",
+   "zip_code":48182,
+   "county":"monroe"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.487834,42.348956 ]
+   },
+   "properties": {
+   "pu_id":"B00000000648",
+   "practice_name":"Park Medical Centers",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8532 Canton Center Rd",
+   "address_line_2":"",
+   "city":"Canton",
+   "state":"MI",
+   "zip_code":48187,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.440466,42.981588 ]
+   },
+   "properties": {
+   "pu_id":"B00000002981",
+   "practice_name":"Port Huron Family Care, PLLC",
+   "po":"Lake Huron PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1979 Holland Ave",
+   "address_line_2":"Suite C",
+   "city":"Port Huron",
+   "state":"MI",
+   "zip_code":48060,
+   "county":"saint clair"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.441535,42.948013 ]
+   },
+   "properties": {
+   "pu_id":"B00000003578",
+   "practice_name":"Port Huron Internal Medicine Associates",
+   "po":"Lake Huron PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2640 16th Street",
+   "address_line_2":"",
+   "city":"Port Huron",
+   "state":"MI",
+   "zip_code":48060,
+   "county":"saint clair"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.445643,42.374166 ]
+   },
+   "properties": {
+   "pu_id":"B00000027187",
+   "practice_name":"Praveen Modi MD PC",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"9857 North Haggerty Road",
+   "address_line_2":"",
+   "city":"Plymouth",
+   "state":"MI",
+   "zip_code":48170,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.227162,42.170675 ]
+   },
+   "properties": {
+   "pu_id":"B00000000570",
+   "practice_name":"Premier Physicians of Michigan",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3645 West Rd.",
+   "address_line_2":"",
+   "city":"Trenton",
+   "state":"MI",
+   "zip_code":48183,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.673138,43.394414 ]
+   },
+   "properties": {
+   "pu_id":"B00000003007",
+   "practice_name":"Prism Primary Care, PLLC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1621 East Broomfield St",
+   "address_line_2":"Ste C",
+   "city":"Mount Pleasant",
+   "state":"MI",
+   "zip_code":48858,
+   "county":"isabella"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.204593,42.213523 ]
+   },
+   "properties": {
+   "pu_id":"B00000020204",
+   "practice_name":"R. R. Yalamanchi, MD, PC",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"13300 Northline Road",
+   "address_line_2":"",
+   "city":"Southgate",
+   "state":"MI",
+   "zip_code":48195,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.149932,42.658366 ]
+   },
+   "properties": {
+   "pu_id":"B00000001782",
+   "practice_name":"Ram Surendran MD PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1349 S Rochester Rd",
+   "address_line_2":"Ste 100",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.012381,42.316702 ]
+   },
+   "properties": {
+   "pu_id":"B00000003590",
+   "practice_name":"Rebecca L Patrias, MD, PLLC",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"350 N Main",
+   "address_line_2":"#100",
+   "city":"Chelsea",
+   "state":"MI",
+   "zip_code":48118,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.609731,42.941202 ]
+   },
+   "properties": {
+   "pu_id":"B00000025458",
+   "practice_name":"Renal Associates of West Michigan PC",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"330 E. Beltline NE",
+   "address_line_2":"Suite #100",
+   "city":"East Grand Rapids",
+   "state":"MI",
+   "zip_code":49506,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.868993,43.584337 ]
+   },
+   "properties": {
+   "pu_id":"B00000011216",
+   "practice_name":"Revan Maragiri, MD, PLC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1005 Mulholland St",
+   "address_line_2":"",
+   "city":"Bay City",
+   "state":"MI",
+   "zip_code":48708,
+   "county":"bay"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.149932,42.658366 ]
+   },
+   "properties": {
+   "pu_id":"B00000001818",
+   "practice_name":"Richards & Richardson PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6700 N Rochester Rd",
+   "address_line_2":"Ste 100",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48306,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.090807,42.609885 ]
+   },
+   "properties": {
+   "pu_id":"B00000003022",
+   "practice_name":"Riverbend Healthcare PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"44344 Dequindre Rd",
+   "address_line_2":"Ste 480",
+   "city":"Sterling Heights",
+   "state":"MI",
+   "zip_code":48314,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.861315,43.564433 ]
+   },
+   "properties": {
+   "pu_id":"B00000003023",
+   "practice_name":"Riverview Medical Associates, PC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"901 S Henry",
+   "address_line_2":"",
+   "city":"Bay City",
+   "state":"MI",
+   "zip_code":48706,
+   "county":"bay"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.477819,42.371144 ]
+   },
+   "properties": {
+   "pu_id":"B00000003603",
+   "practice_name":"Robert Vartabedian, MD, PC",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"990 W Ann Arbor Trail",
+   "address_line_2":"#104",
+   "city":"Plymouth",
+   "state":"MI",
+   "zip_code":48170,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.940294,34.849514 ]
+   },
+   "properties": {
+   "pu_id":"B00000002607",
+   "practice_name":"Rosewood Health Care",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2480 Rosewood Drive",
+   "address_line_2":"",
+   "city":"Mt Pleasant",
+   "state":"MI",
+   "zip_code":48858,
+   "county":"isabella"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.659727,43.37892 ]
+   },
+   "properties": {
+   "pu_id":"B00000003042",
+   "practice_name":"Sacred Heart Mercy Health Care Center",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2025 W Cheesman Rd",
+   "address_line_2":"",
+   "city":"Alma",
+   "state":"MI",
+   "zip_code":48801,
+   "county":"gratiot"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.981241,43.436629 ]
+   },
+   "properties": {
+   "pu_id":"B00000001179",
+   "practice_name":"Saginaw Valley Family Care PLLC",
+   "po":"Great Lakes OSC, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5200 State St",
+   "address_line_2":"",
+   "city":"Saginaw",
+   "state":"MI",
+   "zip_code":48603,
+   "county":"saginaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.25647,42.292407 ]
+   },
+   "properties": {
+   "pu_id":"B00000031100",
+   "practice_name":"Samyuktha Rani Madishetty MD PC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"24100 Oxford St",
+   "address_line_2":"",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48124,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.269651,42.240872 ]
+   },
+   "properties": {
+   "pu_id":"B00000003046",
+   "practice_name":"Satinder Kumar Aggarwal MD",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"10501 Telegraph Road",
+   "address_line_2":"Suite 101",
+   "city":"Taylor",
+   "state":"MI",
+   "zip_code":48180,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.17617,42.327938 ]
+   },
+   "properties": {
+   "pu_id":"B00000031101",
+   "practice_name":"Schaefer Medical Center Dearborn PC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"5245 Schaefer Rd",
+   "address_line_2":"Ste A",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48126,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.999308,43.814635 ]
+   },
+   "properties": {
+   "pu_id":"B00000033250",
+   "practice_name":"Scheurer Primary Care-Bad Axe",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"75 Buschlen Rd.",
+   "address_line_2":"",
+   "city":"Bad Axe",
+   "state":"MI",
+   "zip_code":48413,
+   "county":"huron"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.274411,43.936895 ]
+   },
+   "properties": {
+   "pu_id":"B00000003048",
+   "practice_name":"Scheurer Primary Care - Caseville",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7000 Main St",
+   "address_line_2":"",
+   "city":"Caseville",
+   "state":"MI",
+   "zip_code":48725,
+   "county":"huron"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.17952,43.819239 ]
+   },
+   "properties": {
+   "pu_id":"B00000027050",
+   "practice_name":"Scheurer Primary Care - Elkton",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4970 Railroad St",
+   "address_line_2":"",
+   "city":"Elkton",
+   "state":"MI",
+   "zip_code":48731,
+   "county":"huron"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.279631,43.837186 ]
+   },
+   "properties": {
+   "pu_id":"B00000003049",
+   "practice_name":"Scheurer Primary Care - Pigeon",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"168 N Caseville Rd",
+   "address_line_2":"",
+   "city":"Pigeon",
+   "state":"MI",
+   "zip_code":48755,
+   "county":"huron"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.454522,43.708106 ]
+   },
+   "properties": {
+   "pu_id":"B00000010356",
+   "practice_name":"Scheurer Primary Care - Sebewaing",
+   "po":"Primary Care Partners, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"616 Unionville Rd",
+   "address_line_2":"",
+   "city":"Sebewaing",
+   "state":"MI",
+   "zip_code":48759,
+   "county":"huron"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.353147,42.454885 ]
+   },
+   "properties": {
+   "pu_id":"B00000003057",
+   "practice_name":"Sheikh Medical Center",
+   "po":"Oakland Southfield Physicians",
+   "practice_type_fk":"PCP",
+   "address_line_1":"22821 Orchard Lake Road",
+   "address_line_2":"",
+   "city":"Farmington",
+   "state":"MI",
+   "zip_code":48336,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.377678,42.527983 ]
+   },
+   "properties": {
+   "pu_id":"B00000001925",
+   "practice_name":"Sheila Prasad Meftah MD PLLC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"33200 W 14 Mile Rd",
+   "address_line_2":"Ste 200",
+   "city":"West Bloomfield",
+   "state":"MI",
+   "zip_code":48322,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.992135,42.605027 ]
+   },
+   "properties": {
+   "pu_id":"G00000004509",
+   "practice_name":"Silver Pine Medical Group PLC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"43455 Schoenherr Rd",
+   "address_line_2":"Ste 2",
+   "city":"Sterling Heights",
+   "state":"MI",
+   "zip_code":48313,
+   "county":"macomb"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.165067,42.213621 ]
+   },
+   "properties": {
+   "pu_id":"G00000008537",
+   "practice_name":"Sita Medical Clinic, PC",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"995 Ford Avenue",
+   "address_line_2":"",
+   "city":"Wyandotte",
+   "state":"MI",
+   "zip_code":48192,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.125921,42.642525 ]
+   },
+   "properties": {
+   "pu_id":"B00000001969",
+   "practice_name":"Smita Bijlani MD PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"135 Barclay Cir",
+   "address_line_2":"Ste 104",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.212537,42.140242 ]
+   },
+   "properties": {
+   "pu_id":"B00000027962",
+   "practice_name":"South Valley Internal Medicine, PC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3645 West Rd",
+   "address_line_2":"",
+   "city":"Trenton",
+   "state":"MI",
+   "zip_code":48183,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.480577,42.225766 ]
+   },
+   "properties": {
+   "pu_id":"B00000002054",
+   "practice_name":"Springcrest Family Physicians, PC",
+   "po":"Jackson Health Network, L3C",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2424 Spring Arbor Road.",
+   "address_line_2":"",
+   "city":"Jackson",
+   "state":"MI",
+   "zip_code":49201,
+   "county":"jackson"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.374288,42.412202 ]
+   },
+   "properties": {
+   "pu_id":"B00000031797",
+   "practice_name":"St Joes Medical Group - Freedom Medical Clinic OM",
+   "po":"Olympia Medical LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"20206 Farmington Rd",
+   "address_line_2":"",
+   "city":"Livonia",
+   "state":"MI",
+   "zip_code":48152,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -84.011294,44.033787 ]
+   },
+   "properties": {
+   "pu_id":"B00000002132",
+   "practice_name":"Sterling Area Health Center",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"725 E State St",
+   "address_line_2":"",
+   "city":"Sterling",
+   "state":"MI",
+   "zip_code":48659,
+   "county":"arenac"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.172104,42.650013 ]
+   },
+   "properties": {
+   "pu_id":"B00000002142",
+   "practice_name":"Stonebrooke Family Physicians PLLC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2940 Crooks Rd",
+   "address_line_2":"",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48309,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.343825,42.608088 ]
+   },
+   "properties": {
+   "pu_id":"B00000020549",
+   "practice_name":"Sylvan Lake Family Practice PLC",
+   "po":"Oakland Physician Network Services",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2111 Orchard LK Rd",
+   "address_line_2":"",
+   "city":"Keego Harbor",
+   "state":"MI",
+   "zip_code":48320,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.727315,42.282079 ]
+   },
+   "properties": {
+   "pu_id":"B00000002182",
+   "practice_name":"Taubman Gen Med",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1500 East Medical Center Drive",
+   "address_line_2":"Floor 3, Reception: B",
+   "city":"Ann Arbor",
+   "state":"MI",
+   "zip_code":48109,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.176315,42.32226 ]
+   },
+   "properties": {
+   "pu_id":"B00000000133",
+   "practice_name":"Tenny Internal Medicine, PLLC",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"22361 W. Village Drive, Suite 102",
+   "address_line_2":"",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48124,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.781608,42.166707 ]
+   },
+   "properties": {
+   "pu_id":"B00000003148",
+   "practice_name":"Terry D Howell, MD",
+   "po":"LPO, LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"401 N. Ann Arbor",
+   "address_line_2":"Suite D",
+   "city":"Saline",
+   "state":"MI",
+   "zip_code":48176,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.245421,42.298182 ]
+   },
+   "properties": {
+   "pu_id":"B00000031837",
+   "practice_name":"Thamer Medical PLLC",
+   "po":"Beaumont ACO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2040 Monroe St.",
+   "address_line_2":"Suite 206",
+   "city":"Dearborn",
+   "state":"MI",
+   "zip_code":48124,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.646224,44.76238 ]
+   },
+   "properties": {
+   "pu_id":"B00000011843",
+   "practice_name":"Thirlby Clinic, P.L.C.",
+   "po":"Novello Physicians Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3537 West Front St",
+   "address_line_2":"Suite I",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49684,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.307163,42.643788 ]
+   },
+   "properties": {
+   "pu_id":"B00000025433",
+   "practice_name":"Thomas M. Hoffman MD",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"225 South M37",
+   "address_line_2":"",
+   "city":"Hastings",
+   "state":"MI",
+   "zip_code":49058,
+   "county":"barry"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.302371,42.644963 ]
+   },
+   "properties": {
+   "pu_id":"B00000032699",
+   "practice_name":"Thornapple Valley Family Physicians",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1009 W Green St",
+   "address_line_2":"",
+   "city":"Hastings",
+   "state":"MI",
+   "zip_code":49058,
+   "county":"barry"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.629952,42.927528 ]
+   },
+   "properties": {
+   "pu_id":"B00000002220",
+   "practice_name":"Thyroid and Diabetes Clinic",
+   "po":"Professional Medical Corporation PC",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"G-9450 S Saginaw St Ste G",
+   "address_line_2":"",
+   "city":"Grand Blanc",
+   "state":"MI",
+   "zip_code":48439,
+   "county":"genesee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.376322,42.46448 ]
+   },
+   "properties": {
+   "pu_id":"B00000010377",
+   "practice_name":"Toni B Trate DO PC",
+   "po":"Olympia Medical LLC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"38215 W. Ten Mile Rd",
+   "address_line_2":"Ste 8",
+   "city":"Farmington",
+   "state":"MI",
+   "zip_code":48335,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.953654,42.972246 ]
+   },
+   "properties": {
+   "pu_id":"B00000004293",
+   "practice_name":"UMH-WEST ALLENDALE HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4830 Becker Dr.",
+   "address_line_2":"",
+   "city":"Allendale",
+   "state":"MI",
+   "zip_code":49401,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "pu_id":"B00000003505",
+   "practice_name":"UMH-WEST BELTLINE HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1310 East Beltline SE",
+   "address_line_2":"",
+   "city":"E Grand Rapid",
+   "state":"MI",
+   "zip_code":49506,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.507731,42.802592 ]
+   },
+   "properties": {
+   "pu_id":"B00000003504",
+   "practice_name":"UMH-WEST CALEDONIA HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8941 North Rodgers Cr SE",
+   "address_line_2":"",
+   "city":"Caledonia",
+   "state":"MI",
+   "zip_code":49316,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.551424,43.22336 ]
+   },
+   "properties": {
+   "pu_id":"B00000003506",
+   "practice_name":"UMH-WEST CEDAR SPRINGS HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"14211 White Creek Rd",
+   "address_line_2":"",
+   "city":"Cedar Springs",
+   "state":"MI",
+   "zip_code":49319,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.66553,43.034287 ]
+   },
+   "properties": {
+   "pu_id":"B00000003507",
+   "practice_name":"UMH-WEST COMSTOCK PARK HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4200 North Division",
+   "address_line_2":"",
+   "city":"Comstock Park",
+   "state":"MI",
+   "zip_code":49321,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.861177,42.852408 ]
+   },
+   "properties": {
+   "pu_id":"B00000003508",
+   "practice_name":"UMH-WEST HUDSONVILLE HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"3912 32nd Avenue",
+   "address_line_2":"",
+   "city":"Hudsonville",
+   "state":"MI",
+   "zip_code":49426,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.828957,42.910007 ]
+   },
+   "properties": {
+   "pu_id":"B00000003509",
+   "practice_name":"UMH-WEST JENISON HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"7686 Georgetown Center Drive",
+   "address_line_2":"",
+   "city":"Jenison",
+   "state":"MI",
+   "zip_code":49428,
+   "county":"ottawa"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.341855,42.933601 ]
+   },
+   "properties": {
+   "pu_id":"B00000000575",
+   "practice_name":"UMH-WEST LOWELL HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2550 West Main",
+   "address_line_2":"",
+   "city":"Lowell",
+   "state":"MI",
+   "zip_code":49331,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.559604,43.119721 ]
+   },
+   "properties": {
+   "pu_id":"B00000003510",
+   "practice_name":"UMH-WEST ROCKFORD HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4685 Belding Road",
+   "address_line_2":"",
+   "city":"Rockford",
+   "state":"MI",
+   "zip_code":49341,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.705704,42.913258 ]
+   },
+   "properties": {
+   "pu_id":"B00000003512",
+   "practice_name":"UMH-WEST SOUTHWEST-IM HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2215 - 44th Street",
+   "address_line_2":"Suite 100",
+   "city":"Wyoming",
+   "state":"MI",
+   "zip_code":49519,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.705704,42.913258 ]
+   },
+   "properties": {
+   "pu_id":"B00000003514",
+   "practice_name":"UMH-WEST SOUTHWEST-WEST HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"2215 - 44th Street SW",
+   "address_line_2":"Suite 200",
+   "city":"Wyoming",
+   "state":"MI",
+   "zip_code":49519,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.645766,42.674532 ]
+   },
+   "properties": {
+   "pu_id":"B00000003515",
+   "practice_name":"UMH-WEST WAYLAND HEALTH CENTER",
+   "po":"Metro Health Integrated Network",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1113 E Superior St.",
+   "address_line_2":"",
+   "city":"Wayland",
+   "state":"MI",
+   "zip_code":49348,
+   "county":"allegan"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.682792,42.317485 ]
+   },
+   "properties": {
+   "pu_id":"B00000004252",
+   "practice_name":"UMHS MEND",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"24 Frank Lloyd Wright Drive",
+   "address_line_2":"Lobby C, Suite 1300",
+   "city":"Ann Arbor",
+   "state":"MI",
+   "zip_code":48106,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.727315,42.282079 ]
+   },
+   "properties": {
+   "pu_id":"B00000003999",
+   "practice_name":"UMHS Nephrology",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"Nephrology",
+   "address_line_1":"1500 E. Medical Center Drive",
+   "address_line_2":"Floor 3, Reception C",
+   "city":"Ann Arbor",
+   "state":"MI",
+   "zip_code":48109,
+   "county":"washtenaw"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.645407,41.934959 ]
+   },
+   "properties": {
+   "pu_id":"B00000032111",
+   "practice_name":"Veera J Patel Internal Medicine",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1021 Hill St.",
+   "address_line_2":"Suite 100",
+   "city":"Three Rivers",
+   "state":"MI",
+   "zip_code":49093,
+   "county":"saint joseph"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.357301,42.461437 ]
+   },
+   "properties": {
+   "pu_id":"B00000003382",
+   "practice_name":"Village Medical Farmington",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"23133 Orchard Lake Road",
+   "address_line_2":"Suite 102",
+   "city":"Farmington",
+   "state":"MI",
+   "zip_code":48336,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.35271,42.36837 ]
+   },
+   "properties": {
+   "pu_id":"G00000008946",
+   "practice_name":"Village Medical Livonia",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"17800 Newburgh Road",
+   "address_line_2":"Suite 103",
+   "city":"Livonia",
+   "state":"MI",
+   "zip_code":48152,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.50751,42.423284 ]
+   },
+   "properties": {
+   "pu_id":"G00000008665",
+   "practice_name":"Village Medical Northville",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"42931 West 7 Mile Road",
+   "address_line_2":"",
+   "city":"Northville",
+   "state":"MI",
+   "zip_code":48167,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.483257,42.432278 ]
+   },
+   "properties": {
+   "pu_id":"B00000025146",
+   "practice_name":"Village Medical Northville West",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"422 North Center Street",
+   "address_line_2":"",
+   "city":"Northville",
+   "state":"MI",
+   "zip_code":48167,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.475491,42.48059 ]
+   },
+   "properties": {
+   "pu_id":"B00000001539",
+   "practice_name":"Village Medical Novi",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"39475 Lewis Drive",
+   "address_line_2":"Suite 130",
+   "city":"Novi",
+   "state":"MI",
+   "zip_code":48377,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.476915,42.542642 ]
+   },
+   "properties": {
+   "pu_id":"B00000030646",
+   "practice_name":"Village Medical Pontiac Trail",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"620 N Pontiac Trail",
+   "address_line_2":"",
+   "city":"Walled Lake",
+   "state":"MI",
+   "zip_code":48390,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.651532,42.460957 ]
+   },
+   "properties": {
+   "pu_id":"B00000003090",
+   "practice_name":"Village Medical South Lyon",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"22024  Pontiac Trail",
+   "address_line_2":"",
+   "city":"South Lyon",
+   "state":"MI",
+   "zip_code":48178,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.385793,42.347014 ]
+   },
+   "properties": {
+   "pu_id":"B00000033562",
+   "practice_name":"Village Medical Westland South",
+   "po":"Huron Valley Physicians Assoc PC",
+   "practice_type_fk":"PCP",
+   "address_line_1":"400 North Wayne Road",
+   "address_line_2":"",
+   "city":"Westland",
+   "state":"MI",
+   "zip_code":48185,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.400849,42.541928 ]
+   },
+   "properties": {
+   "pu_id":"B00000004003",
+   "practice_name":"WEST BLOOMFIELD INTERNAL MEDICINE PLLC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"6014 W Maple Rd",
+   "address_line_2":"",
+   "city":"West Bloomfield",
+   "state":"MI",
+   "zip_code":48322,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.646297,44.76243 ]
+   },
+   "properties": {
+   "pu_id":"B00000011848",
+   "practice_name":"West Front Primary Care, P.L.L.C.",
+   "po":"Novello Physicians Organization",
+   "practice_type_fk":"PCP",
+   "address_line_1":"4290 Copper Ridge, Ste 200",
+   "address_line_2":"",
+   "city":"Traverse City",
+   "state":"MI",
+   "zip_code":49684,
+   "county":"grand traverse"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -85.151763,44.793991 ]
+   },
+   "properties": {
+   "pu_id":"B00000033745",
+   "practice_name":"West Michigan Endocrine",
+   "po":"Answer Health Physician Organization",
+   "practice_type_fk":"Endocrinology",
+   "address_line_1":"5060 Cascade Rd, Suite C1",
+   "address_line_2":"",
+   "city":"E Grand Rapid",
+   "state":"MI",
+   "zip_code":49506,
+   "county":"kent"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.210767,42.259507 ]
+   },
+   "properties": {
+   "pu_id":"B00000002295",
+   "practice_name":"Western Wayne Physicians - Allen Park",
+   "po":"CIPA",
+   "practice_type_fk":"PCP",
+   "address_line_1":"8338 Allen Road Suite 101",
+   "address_line_2":"",
+   "city":"Allen Park",
+   "state":"MI",
+   "zip_code":48101,
+   "county":"wayne"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.792111,43.124307 ]
+   },
+   "properties": {
+   "pu_id":"B00000003203",
+   "practice_name":"Yale Family Care, PLLC",
+   "po":"Lake Huron PHO",
+   "practice_type_fk":"PCP",
+   "address_line_1":"333 Gordon Drive",
+   "address_line_2":"",
+   "city":"Yale",
+   "state":"MI",
+   "zip_code":48097,
+   "county":"saint clair"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.149932,42.658366 ]
+   },
+   "properties": {
+   "pu_id":"B00000025238",
+   "practice_name":"Your Physicians PC",
+   "po":"United Physicians, Inc",
+   "practice_type_fk":"PCP",
+   "address_line_1":"1135 W University Dr",
+   "address_line_2":"Ste 220",
+   "city":"Rochester Hills",
+   "state":"MI",
+   "zip_code":48307,
+   "county":"oakland"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -83.600257,42.237497 ]
+   },
+   "properties": {
+   "pu_id":"B00000002428",
+   "practice_name":"Ypsilanti Fam Med",
+   "po":"Michigan Medicine",
+   "practice_type_fk":"PCP",
+   "address_line_1":"200 Arnet Street",
+   "address_line_2":"Suite 200",
+   "city":"Superior Township",
+   "state":"MI",
+   "zip_code":48198,
+   "county":"washtenaw"
+   }
+ }
+]
 }
